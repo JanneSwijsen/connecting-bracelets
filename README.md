@@ -1,7 +1,7 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
+🛠️ Built by ``Marie De Clercq`` & ``Janne Swijsen``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
@@ -56,7 +56,6 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](url)
 
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
