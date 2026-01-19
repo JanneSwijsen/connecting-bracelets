@@ -8,13 +8,11 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
+Blinde en slechtziende kinderen ervaren moeilijkheden op de speelplaats. Uit interviews met volwassenen die blind of slechtziend zijn, blijkt dat zij dit probleem vroeger ook ondervonden. Een belangrijk probleem is het terugvinden van elkaar op de speelplaats. Dit werd bevestigd door toezichthouders van een buso-school die wij meerdere keren bezochten. Vooral kinderen met CVI hebben het moeilijk om andere kinderen te herkennen en doen dit vaak op basis van uiterlijke kenmerken, zoals een jas. Ook voor volledig blinde kinderen is dit niet evident.
+Daarnaast bleek uit interviews dat vier van de vijf blinde en slechtziende kinderen geen spelletjes spelen op de speelplaats. Dit toont aan dat het voor hen moeilijk is om samen te spelen en met elkaar te interageren.
+Onze oplossing is de NAAM, een armband die kinderen helpt elkaar te vinden en samen te spelen. De armband heeft drie ringen die via vibraties richting aangeven: links, rechtdoor en rechts, en wordt gebruikt wanneer een kind een vriendje zoekt. Slechtziende kinderen kunnen elkaar herkennen via ingebouwde lichtjes, waarbij elk kind een eigen kleur krijgt. Daarnaast bevat de armband knopjes waarmee kinderen samen geluid kunnen maken en zo spel en interactie stimuleren.
+
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
