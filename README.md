@@ -1,5 +1,5 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelplaats en samen spelen stimuleert.
 
 🛠️ Built by ``Marie De Clercq`` & ``Janne Swijsen``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
