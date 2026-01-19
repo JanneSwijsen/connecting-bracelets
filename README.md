@@ -21,7 +21,13 @@ Onze oplossing is de NAAM, een armband die kinderen helpt elkaar te vinden en sa
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Blinde en slchetziende kinderen zijn een zeer
+Blinde en slechtziende kinderen zijn een zeer kleine en specifieke doelgroep met zo’n 2300 tot 2500 kinderen in ons land. Tijdens het opgroeien is het belangrijk dat je als kind sociaal wordt uitgedaagd door leeftijdsgenoten. Kortom, je leert als kind heel veel bij tijdens het interageren met elkaar. Dit lijkt zeer vanzelfsprekend maar niet voor kinderen met een visuele beperking. Zij missen namelijk veel signalen die nodig zijn voor een vlotte communicatie. Zij kunnen geen lichaamsbewegingen lezen en 
 
+
+
+
+Statbel – Nationaal Instituut voor de Statistiek. (2025). Kerncijfers 2025 (PDF). Belgische Federale Overheidsdienst Economie
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
