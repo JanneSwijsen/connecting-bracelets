@@ -32,6 +32,16 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Kritische reflectie
 Max. 500 woorden
+Discovery:
+Definition:
+In de definition fase was het enorm belangrijk om alle keuzes zoals de vorm en de functies goed te onderbouwen. Het is een zeer kleine doelgroep waardoor het nog moeilijker was deze te bereiken. Hierdoor hadden we het op het begin van deze fase moeilijk met het grondig definiëren van ons product. Daarom was het in ons geval zeer belangrijk om convergerend te werken. Denk in eerste instantie zeer ruim om vervolgens na elke user tests zaken te kunnen uitsluiten. 
+
+De context van ons product lag vooraf al vast. Het product moet vooral buiten op de speelplaats gebruikt worden. Hierdoor konden we al enkele vormen van het product gaan definiëren en deze testen in de user tests. Deze waren zeer nuttig en leverde ons veel inzicht in hun wereld. Door met de doelgroep te interageren en ze te analyseren is het als ontwerper makkelijker om de hoofdfuncties te gaan bepalen. 
+Dit was zeer goed gelukt. We wisten al snel dat navigatie op de speelplaats en dus het vinden van elkaar een groot probleem was voor vele kinderen. Ook het interageren met elkaar en samen spelen was niet evident. Hierdoor was het voor ons duidelijk wat ons product moest kunnen. 
+De functies vertalen naar prototypes was zeer goed gelukt. Door gebruik te maken van de aangeboden materialen waren we in staat deze op een zo’n optimale manier te gaan testen bij de gebruikers. 
+
+Een moeilijkheid was de maximale vorm van ons product. Door met een armband te werken voor kinderen zit je met een beperkte ruimte. Hierdoor was het belangrijk om goed na te denken over de hoofd- en deelfuncties en goed te filteren wat echt een must is en wat een could. Ook nadenken over het interageren van de elektronica binnen een kleine ruimte speelde een rol. Wat is er mogelijk binnen het prototypen om een zo goed mogelijk product neer te zetten dat zo dicht mogelijk aansluit bij het werkelijke?
+
 
 ## Noot inzake het gebruik van AI
 Licht toe op welke manier je AI gebruikte in dit project.
@@ -46,10 +56,10 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](https://docs.google.com/document/d/16wcM5seSrV6ImXd_zJ5tbA79aMq7ztIV8XGaAGufvN0/edit?usp=sharing)
     
 ### Definition
-* User testing wave 1 (N=x)
+* User testing wave 1 (N=5)
   * [Protocol](https://docs.google.com/document/d/1PScToasmRdA7CPwijmAdqm3Sq7c3n27H3kJ8hwbPWeM/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1yzAaIJYupc4RvSSkkgK8SMXgZm30wgphqNSSNsJLy3I/edit?usp=sharing)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=5)
   * [Protocol](https://docs.google.com/document/d/1tHmsLacJP1s_fwc3OeXYuKpickdQvcC8EyfVEBEWJOY/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1i3CbX1E0wDJPAPWbUhM5ELafk3zNrf05KD8DWR6aCic/edit?usp=sharing)
 
