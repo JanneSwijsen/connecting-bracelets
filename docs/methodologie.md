@@ -1,7 +1,6 @@
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal (1) een tijdsincatie te zien zijn (e.g. maanden of kwartalen), moeten fasen te zien (gekoppeld aan doelstellingen van die fase) zijn en moeten activiteiten te zien zijn (onderzoeksmethoden). Bekijk zeker ook eens [voorbeelden van eerdere jaren](https://github.com/basbaccarne/human-centered-design) (voor SEM1 betreft dit uiteraard slechts de helft van deze visualisaties). We boewen hier in het tweede semester op verder.   
 
-Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
+Het Double Diamong model bestaat uit vier fases namelijk de Discover, Define, Develop en Deliver fase. In het eerste semester kwamen de Discover en de Define fases aan bod. Dit biedt een zeer gestructureerd ontwerpproces aan de ontwerper die zo het juiste probleem en oplossingen vindt.
 
 In de eerste ontdekkingsfase werd er onderzoek gedaan naar de blinden en slechtzienden en hun meest voorkomende problemen. 
 Hierbij kwam ik terecht bij de blinde en slechtziende kinderen en hun meest voorkomende problemen door de literatuuronderzoek en de benchmarking. Deze doelgroep vindt het niet gemakkelijk om buiten zeer interactief met elkaar te spelen want veel activiteiten vergen visuele communicatie. De reeds bestaande oplossingen voor deze doelgroep zijn voornamelijk individueel en vinden binnen plaats. 
@@ -19,5 +18,5 @@ Hierdoor konden we in de tweede wave de functies gaan testen met prototypes en w
 
 
 <p align="center">
-  <img src="img/Schermafbeelding 2026-01-20 151129.png" width="100%">
+  <img src="../img/Schermafbeelding 2026-01-20 151129.png" width="100%">
 </p>
