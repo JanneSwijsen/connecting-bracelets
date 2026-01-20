@@ -1,4 +1,4 @@
-# Projecttitel
+# CONNEX
 Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelplaats en samen spelen stimuleert.
 
 🛠️ Built by ``Marie De Clercq`` & ``Janne Swijsen``   
