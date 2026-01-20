@@ -39,10 +39,12 @@ Op deze manier willen wij blinde en slechtziende kinderen tijdens hun jeugd opti
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
+##### Discovery
+Het moeilijkste deel van de discovery is  het begin: welk probleem wil ik aanpakken? Op welke manier kan ik blinde en slechtziende mensen helpen met mijn toekomstig product? Persoonlijk denk ik dat ik daar te lang bij heb stilgestaan. Er waren zo veel uitlopende probleemdomeinen en dus ook heel uitlopende persona’s. Ik zat vast. 
+Daarnaast verliep het vinden van personen voor interviews heel moeilijk. Het moeilijke aan een doelgroep als deze is dat je niet zomaar een paar kennissen hebt die in het profiel passen. Nog drie interviews proberen plannen op de overige korte tijd was bijna onmogelijk. Er waren heel wat facebookgroepen, maar deze beheerders antwoordde niet, hoewel forms hierin mochten.
+Uiteindelijk is het wel goedgekomen en bedacht ik de “connected bracelets”. Ook daar vond ik keuzes maken moeilijk en heb ik heel wat dingen weggelaten, zoals de ringen. Vooral omdat het heel moeilijk is om je voor te stellen in het leven van een blinde of slechtziende persoon. Ik wou geen foute assumpties maken. Toch ben ik trots op het resultaat.
 
-Discovery:
-
-Definition:
+##### Definition
 In de definition fase was het enorm belangrijk om alle keuzes zoals de vorm en de functies goed te onderbouwen. Het is een zeer kleine doelgroep waardoor het nog moeilijker was deze te bereiken. Hierdoor hadden we het op het begin van deze fase moeilijk met het grondig definiëren van ons product. Daarom was het in ons geval zeer belangrijk om convergerend te werken. Denk in eerste instantie zeer ruim om vervolgens na elke user tests zaken te kunnen uitsluiten. 
 
 De context van ons product lag vooraf al vast. Het product moet vooral buiten op de speelplaats gebruikt worden. Hierdoor konden we al enkele vormen van het product gaan definiëren en deze testen in de user tests. Deze waren zeer nuttig en leverde ons veel inzicht in hun wereld. Door met de doelgroep te interageren en ze te analyseren is het als ontwerper makkelijker om de hoofdfuncties te gaan bepalen. 
