@@ -8,8 +8,7 @@
 |**Deelaspect**|
 |2.1|De pods ... |[2.1 User test](url)|✅|
 
-
-
+/*
 | ID | Design Requirement | Source | Status |
 |----|-------------------|--------|--------|
 | **Algemeen** |
@@ -24,18 +23,19 @@
 | 2.1 | Het product moet duidelijke signalen geven in de vorm van trillingen. | Concept Testing | ✅ |
 | 2.2 | Het product moet op een zeer nauwkeurige manier de weg leiden. |  | ❌ |
 | 2.3 | De trillingen moeten op een constant ritme worden doorgestuurd. | Concept Testing | ✅ |
-| 2.4 | De trillingen mogen niet te snel na elkaar volgen. |  | ❌ |
-| 2.5 | Het moet duidelijk zijn voor de gebruiker wanneer hij links of rechts moet gaan. |  | ❌ |
-| **Feedback** |
-| 3.1 | Het product moet auditieve feedback geven. |  | ❌ |
-| 3.2 | De feedback moet duidelijk en verstaanbaar zijn. |  | ❌ |
+| 2.4 | De trillingen mogen niet te snel na elkaar volgen. |  | ✅ |
+| 2.5 | Het moet duidelijk zijn voor de gebruiker wanneer hij links of rechts moet gaan. |  | ✅ |
+| **Speelfunctie** |
+| 3.1 | Het product moet auditieve feedback geven. |  | ⚠️ |
+| 3.2 | De feedback moet duidelijk en verstaanbaar zijn. |  | ⚠️ |
 | 3.3 | Het volume moet aangepast kunnen worden. |  | ❌ |
-| **Gebruik** |
+| 3.4 | De speelfunctie moet de gebruiker motiveren om te blijven bewegen. |  | ❌ |
+| **Gebruiksgemak** |
 | 4.1 | Het product moet gemakkelijk aan en uit te zetten zijn. |  | ❌ |
 | 4.2 | Het product moet intuïtief te gebruiken zijn. |  | ❌ |
-| 4.3 | Het product moet draadloos kunnen functioneren. |  | ❌ |
+| 4.3 | Het product moet draadloos kunnen functioneren. |  | ⚠️ |
 | 4.4 | De armband moet gemakkelijk om de pols te bevestigen zijn. |  | ❌ |
-| 4.5 | Het product moet gebruikt kunnen worden door kinderen van verschillende leeftijden. |  | ❌ |
+| 4.5 | Het product moet gebruikt kunnen worden door kinderen van verschillende leeftijden. |  | ⚠️ |
 | 4.6 | Het product moet te gebruiken zijn voor kinderen met een looprek. |  | ❌ |
 | 4.7 | De levensduur van het product mag niet te kort zijn. |  | ❌ |
 | 4.8 | De armband moet makkelijk op te laden zijn. |  | ❌ |
@@ -51,3 +51,6 @@
 | 6.3 | De armband moet stevig rond de pols zitten tijdens fysieke bewegingen. |  | ❌ |
 | 6.4 | Het product mag niet te zwaar zijn. |  | ❌ |
 */
+
+
+
