@@ -11,7 +11,7 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 
 Blinde en slechtziende kinderen ervaren moeilijkheden op de speelplaats. Uit interviews met volwassenen die blind of slechtziend zijn, blijkt dat zij dit probleem vroeger ook ondervonden. Een belangrijk probleem is het terugvinden van elkaar op de speelplaats. Dit werd bevestigd door toezichthouders van een buso-school die wij meerdere keren bezochten. Vooral kinderen met CVI hebben het moeilijk om andere kinderen te herkennen en doen dit vaak op basis van uiterlijke kenmerken zoals een jas. Ook voor volledig blinde kinderen is dit niet evident.
 Daarnaast bleek uit interviews dat vier van de vijf blinde en slechtziende kinderen geen spelletjes spelen op de speelplaats. Dit toont aan dat het voor hen moeilijk is om samen te spelen en met elkaar te interageren.
-Onze oplossing is de NAAM, een armband die kinderen helpt elkaar te vinden en samen te spelen. De armband heeft drie ringen die via vibraties richting aangeven: links, rechtdoor en rechts, en wordt gebruikt wanneer een kind een vriendje zoekt. Slechtziende kinderen kunnen elkaar herkennen via ingebouwde lichtjes, waarbij elk kind een eigen kleur krijgt. Daarnaast bevat de armband knopjes waarmee kinderen samen geluid kunnen maken en een ingebouwde walkie talkie waardoor de kinderen draadloos met elkaar kunnen commmuniceren. Op deze manier worden spel en interactie met elkaar op de speelplaats gestimuleerd.
+Onze oplossing is de Connex, een armband die kinderen helpt elkaar te vinden en samen te spelen. De armband heeft drie ringen die via vibraties richting aangeven: links, rechtdoor en rechts, en wordt gebruikt wanneer een kind een vriendje zoekt. Slechtziende kinderen kunnen elkaar herkennen via ingebouwde lichtjes, waarbij elk kind een eigen kleur krijgt. Daarnaast bevat de armband knopjes waarmee kinderen samen geluid kunnen maken en een ingebouwde walkie talkie waardoor de kinderen draadloos met elkaar kunnen commmuniceren. Op deze manier worden spel en interactie met elkaar op de speelplaats gestimuleerd.
 
 <p align="center">
   <img src="img/hero_example.png" width="100%">
@@ -21,13 +21,15 @@ Onze oplossing is de NAAM, een armband die kinderen helpt elkaar te vinden en sa
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
-Blinde en slchetziende kinderen zijn een zeer
-Blinde en slechtziende kinderen zijn een zeer kleine en specifieke doelgroep met zo’n 2300 tot 2500 kinderen in ons land. Tijdens het opgroeien is het belangrijk dat je als kind sociaal wordt uitgedaagd door leeftijdsgenoten. Kortom, je leert als kind heel veel bij tijdens het interageren met elkaar. Dit lijkt zeer vanzelfsprekend maar niet voor kinderen met een visuele beperking. Zij missen namelijk veel signalen die nodig zijn voor een vlotte communicatie. Zij kunnen geen lichaamsbewegingen lezen en 
+
+Blinde en slechtziende kinderen zijn een zeer kleine en specifieke doelgroep met zo’n 2300 tot 2500 kinderen in ons land. Tijdens het opgroeien is het belangrijk dat je als kind sociaal wordt uitgedaagd door leeftijdsgenoten. Kortom, je leert als kind heel veel bij tijdens het interageren met elkaar. Dit lijkt zeer vanzelfsprekend maar niet voor kinderen met een visuele beperking. Zij missen namelijk veel signalen die nodig zijn voor een vlotte communicatie. Zij kunnen geen lichaamsbewegingen lezen en kunnen zich sneller uitgesloten voelen bij visuele of fysieke activiteiten. Daarom zijn wij op onderzoek gegaan en hebben we ons verdiept in de wereld van blinde en slechtziende kinderen van zes tot twaalf jaar op school. Hoe ervaren zij de wereld en op welke manier lossen zij bepaalde zaken op? En één van de belangrijkste vraag: 'Hoe kunnen wij als ontwerper de interacie tussen de kinderen op de speelplaats stimuleren?'.
+
+Al snel merkten we dat navigatie en onderlinge activiteiten een gebrek waren op de speelplaats. Kinderen kunnen zich snel vervelen en hebben vaak moeite met elkaar te vinden op de speelplaats. Dit leidt voor vele kinderen tot eenzame pauzes en weinig interactie met leeftijdsgenoten wat een negatieve invloed heeft op de sociale ontwikkeling van kinderen. Daarom zochten wij naar oplossingen en hebben deze vertaald naar fysieke en interactieve prototypes. Dit geheel vormt de Connex, een interactieve en slimme armband die de sociale ontwikkelingen stimuleert door op een efficiëntere manier met elkaar te communiceren. Elk kind beschikt over een armband met een specifieke kleur waardoor kinderen elkaar makkelijker kunnen vinden d.m.v. licht of trillingen. Ook bevat het talloze triggers zoals geluid, stemmetjes en zelfs een walkie-talkie om draadloos te kunnen communiceren met elkaar. 
+Op deze manier willen wij blinde en slechtziende kinderen tijdens hun jeugd optimalere ontwikkelingskansen bieden.
 
 
 
 
-Statbel – Nationaal Instituut voor de Statistiek. (2025). Kerncijfers 2025 (PDF). Belgische Federale Overheidsdienst Economie
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
@@ -80,3 +82,4 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
 ## Bronnen
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+ Statbel – Nationaal Instituut voor de Statistiek., (2025). Kerncijfers 2025 (PDF). Belgische Federale Overheidsdienst Economie
