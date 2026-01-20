@@ -41,6 +41,7 @@ Op deze manier willen wij blinde en slechtziende kinderen tijdens hun jeugd opti
 ## Kritische reflectie
 Max. 500 woorden
 Discovery:
+
 Definition:
 In de definition fase was het enorm belangrijk om alle keuzes zoals de vorm en de functies goed te onderbouwen. Het is een zeer kleine doelgroep waardoor het nog moeilijker was deze te bereiken. Hierdoor hadden we het op het begin van deze fase moeilijk met het grondig definiëren van ons product. Daarom was het in ons geval zeer belangrijk om convergerend te werken. Denk in eerste instantie zeer ruim om vervolgens na elke user tests zaken te kunnen uitsluiten. 
 
@@ -48,7 +49,7 @@ De context van ons product lag vooraf al vast. Het product moet vooral buiten op
 Dit was zeer goed gelukt. We wisten al snel dat navigatie op de speelplaats en dus het vinden van elkaar een groot probleem was voor vele kinderen. Ook het interageren met elkaar en samen spelen was niet evident. Hierdoor was het voor ons duidelijk wat ons product moest kunnen. 
 De functies vertalen naar prototypes was zeer goed gelukt. Door gebruik te maken van de aangeboden materialen waren we in staat deze op een zo’n optimale manier te gaan testen bij de gebruikers. 
 
-Een moeilijkheid was de maximale vorm van ons product. Door met een armband te werken voor kinderen zit je met een beperkte ruimte. Hierdoor was het belangrijk om goed na te denken over de hoofd- en deelfuncties en goed te filteren wat echt een must is en wat een could. Ook nadenken over het integreren van de elektronica binnen een kleine ruimte speelde een rol. Wat is er mogelijk binnen het prototypen om een zo goed mogelijk product neer te zetten dat zo dicht mogelijk aansluit bij het werkelijke?
+Een moeilijkheid was de maximale vorm van ons product. Door met een armband te werken voor kinderen zit je met een beperkte ruimte. Hierdoor was het belangrijk om goed na te denken over de hoofd- en deelfuncties en goed te filteren wat echt een must is en wat een nice to have. Ook nadenken over het integreren van de elektronica binnen een kleine ruimte speelde een rol. Wat is er mogelijk binnen het prototypen om een zo goed mogelijk product neer te zetten dat zo dicht mogelijk aansluit bij het werkelijke?
 
 
 ## Noot inzake het gebruik van AI
