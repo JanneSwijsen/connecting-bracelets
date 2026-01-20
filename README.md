@@ -18,9 +18,6 @@ Onze oplossing is de Connex, een armband die kinderen helpt elkaar te vinden en 
 </p>
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 Blinde en slechtziende kinderen zijn een zeer kleine en specifieke doelgroep met zo’n 2300 tot 2500 kinderen in ons land. Tijdens het opgroeien is het belangrijk dat je als kind sociaal wordt uitgedaagd door leeftijdsgenoten. Kortom, je leert als kind heel veel bij tijdens het interageren met elkaar. Dit lijkt zeer vanzelfsprekend maar niet voor kinderen met een visuele beperking. Zij missen namelijk veel signalen die nodig zijn voor een vlotte communicatie. Zij kunnen geen lichaamsbewegingen lezen en kunnen zich sneller uitgesloten voelen bij visuele of fysieke activiteiten. Daarom zijn wij op onderzoek gegaan en hebben we ons verdiept in de wereld van blinde en slechtziende kinderen van zes tot twaalf jaar op school. Hoe ervaren zij de wereld en op welke manier lossen zij bepaalde zaken op? En één van de belangrijkste vragen: 'Hoe kunnen wij als ontwerper de interacie tussen de kinderen op de speelplaats stimuleren?'.
 
@@ -59,7 +56,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=3)
+* Literatuuronderzoek (N=12)
   * [Protocol](https://docs.google.com/document/d/1pLS-yoIyCixUsoDy8Olxq0LtLZL6geReQaMbVEoXSQo/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1AL9Oe7OtSYR5j-e9NTBCdWoD_j0to6DTz_V7ykQryFg/edit?usp=sharing)
 * Interviews (N=3)
