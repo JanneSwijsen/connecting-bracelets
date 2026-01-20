@@ -52,7 +52,11 @@ Een moeilijkheid was de maximale vorm van ons product. Door met een armband te w
 
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+Ai werd gebruikt om onze teksten te herschrijven.
+Prompts die gebruikt werden zijn: 
+ - Herschrijf deze tekst naar ... woorden
+ - Herschrijf deze tekst naar een meer academische langere tekst.
+ - Herschrijf volgende kernpunten naar een tekst met volzinnen
 
 ## Bijlagen
 ### Discovery
