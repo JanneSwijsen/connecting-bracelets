@@ -7,7 +7,7 @@
 - Belangrijke design requirements bepalen
 ### Materiaal & methoden
 Dit was de start van onze samenwerking. Nadat Janne het concept volledig uit heeft gelegd aan Marie, zijn we meteen aan het werk gegaan.
-Er werden wat aanpassingen gemaakt aan de "connected bracelets". Hieruit ontstond een eerste een storyboard en later ook een eerste snelle storyboard.
+Er werden wat aanpassingen gemaakt aan de "connected bracelets". Hieruit ontstond een eerste storyboard en later ook een eerste snel prototype.
 
 We zijn vertrokken vanuit een storyboard.
 
