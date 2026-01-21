@@ -6,24 +6,14 @@
 - Inzicht krijgen in de eisen en wensen van de doelgroep en dit verwerken in het eerder bedachte concept
 - Belangrijke design requirements bepalen
 ### Materiaal & methoden
-Dit was de start van onze samenwerking. Nadat Janne het concept volledig uit heeft gelegd aan Marie, zijn we meteen aan het werk gegaan.
-Er werden wat aanpassingen gemaakt aan de "connected bracelets". Hieruit ontstond een eerste storyboard en later ook een eerste snel prototype.
-
+Wave 1:
 We zijn vertrokken vanuit een storyboard.
 
 <p align="center">
   <img src="../img/Schermafbeelding 2026-01-20 213930.png" width="100%">
 </p>
 
-Hieruit volgde een prototype die we later aan de klas moesten voorstellen.
 
-<p align="center">
-  <img src="../img/eerste prototype.jpeg" width="100%">
-</p>
-
-Hierna konden we beginnen met ons onderzoek.
-
-Wave 1:
 In deze wave stonden volgende vragen centraal:
 - Wat is de meest ideale vorm van het product in de geschikte context?
 - Welke knoppen zijn het optimaalst om de hanteren?
@@ -64,16 +54,16 @@ De bedoeling is dat de slechtziende kinderen elkaar makkelijker kunnen vinden d.
 
 Spelletjes: Een van de speelfuncties zijn knoppen die geluid maken. Dit is een zeer leuke methode om op een auditieve manier interactie met elkaar te maken. 
 Met behulp van de Makey Makey setup is het zeer makkelijk om dit waar te maken. Je kan deze simpelweg aansluiten op je laptop en het makey makey platform openen waar er talloze activiteiten te vinden zijn. Deze omvatten zowel games als geluidmakende tools. De bedoeling is om te kijken of de kinderen dit een aangename tool vinden en of ze hier graag nog in de toekomst mee willen spelen.
-Ook kan een ingebouwde walkie-talkie veel voordelen beiden voor zowel de speel- als de navigatiefuncties.
+Ook kan een ingebouwde walkie-talkie veel voordelen bieden voor zowel de speel- als de navigatiefuncties.
 
 
 <p align="center">
-  <img src="../img/Schermafbeelding 2026-01-20 224633.png" width="100%">
+  <img src="../img/Schermafbeelding 2026-01-21 081031.png" width="100%">
 </p>
 
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
 Resultaten Wave 1:
 De resultaten van de verschillende vormenen en knoppen zijn in de tabellen weergegeven.
 De armband scoort duidelijk het best. De proefpersonen vinden het een handige 
@@ -92,6 +82,10 @@ Het laagste gerangschikt was de draaiknop. Deze gaf namelijk ook weinig feedback
 </p>
 
 Design Requirements:
+1.6 Het product geeft feedback na elke functie die werd uitgevoerd. 
+1.7 De functies op de armbanden zijn aangepast aan kinderen met een fysieke beperking. 
+3.1 Het product moet auditieve feedback geven. 
+3.2 De feedback moet duidelijk en verstaanbaar zijn. 
 
 
 Resultaten Wave 2:
@@ -106,14 +100,21 @@ Om de speelfunctie te testen maken we gebruik van de Makey Makey en externe knop
 Ook waneer je de knop inhoudt, zal het geluid blijven komen en pas stoppen als de knop terug wordt losgelaten. De experte verklaart dat ook de kinderen die minder mobiliteit in hun handen hebben zo toch makkelijk zouden kunnen meespelen. 
 
 <p align="center">
-  <img src="../img/Schermafbeelding 2026-01-20 222931.png" width="100%">
+  <img src="../img/Schermafbeelding 2026-01-21 111004.png" width="100%">
 </p>
 
+
 Design Requirements:
+2.1 Het product moet duidelijke signalen geven in de vorm van trillingen. 
+2.3 De trillingen moeten op een constant ritme worden doorgestuurd. 
+2.4 De trillingen mogen niet te snel na elkaar volgen.
+2.5 Het moet duidelijk zijn voor de gebruiker wanneer hij links of rechts moet gaan. 
+4.3 Het product moet draadloos kunnen functioneren.
+4.5 Het product moet gebruikt kunnen worden door kinderen van verschillende leeftijden.
 
 
 
 ### Conclusies & implicaties
 Door al deze testen zijn we tot belangrijke besluiten gekomen. 
 Uit Wave 1 hebben we vastgesteld dat het product een armband moet zijn en deze geen draaiknoppen mag bevatten. 
-Uit Wave 2 constateerden we dat de navigatiefunctie een groot succes was bij de trillingen als de lichtjes alhoewel de trillingen een groter doelpubliek bereiken. Deze kunnen door zowel slechtziende als blinde kinderen gebruikt worden. Daarnaast waren de spelletjes ook een grote troef en vonden de kinderen het zeer aangenaam deze te gebruiken.
+Uit Wave 2 constateerden we dat de navigatiefunctie een groot succes was bij de trillingen als de lichtjes alhoewel de trillingen een groter doelpubliek bereiken. Deze kunnen door zowel slechtziende als blinde kinderen gebruikt worden. Daarnaast waren de spelletjes ook een grote troef en vonden de kinderen het zeer aangenaam deze te gebruiken.P
