@@ -77,7 +77,7 @@ De doelgroep voor het invullen van de vragenlijst waren volwassenen die voor hun
 
 Uiteindelijk waren er maar 3 respondenten.
 
-Hoewel de steekproef klein is, en er liever blinde en slechtziende kinderen of hun ouders werden geinterviewd, levert ze waardevolle kwalitatieve inzichten op over speelervaringen in de kindertijd.
+Hoewel de steekproef klein is en er liever blinde en slechtziende kinderen of hun ouders werden geinterviewd, levert ze waardevolle kwalitatieve inzichten op over speelervaringen in de kindertijd.
 
 
 ##### Analyse
@@ -131,7 +131,9 @@ Daarnaast gaven de respondenten aan dat er weinig toegankelijk speelmateriaal be
 
 
 ##### Design requierements: 
-1.1, 1.2, 1.3
+1.1 Het product moet kunnen navigeren. 
+1.2 Het product moet speelfuncties bevatten. 
+1.3 De functies op de armbanden zijn aangepast aan alle types van blindheid. 
 
 ### Conclusies & implicaties
 Uit het onderzoek blijkt dat bestaande hulpmiddelen vooral focussen op functionaliteit en oriëntatie, terwijl spel en sociale interactie weinig aandacht krijgen. Spelen gebeurt daardoor vaak individueel, terwijl de behoefte aan inclusief sociaal spel groot is.
