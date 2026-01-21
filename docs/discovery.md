@@ -3,8 +3,15 @@ Project: Spatial Experiences for Visually Impaired Populations
 
 ### Doestellingen
 ##### Hoofddoel
+Een de keuze voor de doelgroep en probleem dat aangekaart ging worden achter de rug was, werd er eerst een persona opgesteld.
 
-Het doel van deze discovery was om inzicht te krijgen in hoe bestaande hulpmiddelen, spelconcepten en technologieën omgaan met ruimtelijke beleving, spel en sociale interactie bij mensen met een visuele beperking, met een specifieke focus op kinderen tussen 6 en 12 jaar.
+<p align="center">
+  <img src="../img/WhatsApp Image 2026-01-21 at 10.06.00.jpeg" width="90%">
+</p>
+
+
+
+Het verdere doel van deze discovery was om inzicht te krijgen in hoe bestaande hulpmiddelen, spelconcepten en technologieën omgaan met ruimtelijke beleving, spel en sociale interactie bij mensen met een visuele beperking, met een specifieke focus op kinderen tussen 6 en 12 jaar.
 
 Op basis van deze inzichten werd gezocht naar ontwerp­kansen voor een nieuw, slim en speels product dat niet enkel functioneel is, maar ook emotioneel en sociaal waardevol.
 

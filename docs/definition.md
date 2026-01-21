@@ -6,14 +6,24 @@
 - Inzicht krijgen in de eisen en wensen van de doelgroep en dit verwerken in het eerder bedachte concept
 - Belangrijke design requirements bepalen
 ### Materiaal & methoden
-Wave 1:
+Dit was de start van onze samenwerking. Nadat Janne het concept volledig uit heeft gelegd aan Marie, zijn we meteen aan het werk gegaan.
+Er werden wat aanpassingen gemaakt aan de "connected bracelets". Hieruit ontstond een eerste een storyboard en later ook een eerste snelle storyboard.
+
 We zijn vertrokken vanuit een storyboard.
 
 <p align="center">
   <img src="../img/Schermafbeelding 2026-01-20 213930.png" width="100%">
 </p>
 
+Hieruit volgde een prototype die we later aan de klas moesten voorstellen.
 
+<p align="center">
+  <img src="../img/eerste prototype.jpeg" width="100%">
+</p>
+
+Hierna konden we beginnen met ons onderzoek.
+
+Wave 1:
 In deze wave stonden volgende vragen centraal:
 - Wat is de meest ideale vorm van het product in de geschikte context?
 - Welke knoppen zijn het optimaalst om de hanteren?
