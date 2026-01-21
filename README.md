@@ -54,9 +54,12 @@ Een moeilijkheid was de maximale vorm van ons product. Door met een armband te w
 ## Noot inzake het gebruik van AI
 Ai werd gebruikt om onze teksten te herschrijven.
 Prompts die gebruikt werden zijn: 
- - Herschrijf deze tekst naar ... woorden
+ - Herschrijf deze tekst naar ... woorden.
  - Herschrijf deze tekst naar een meer academische langere tekst.
- - Herschrijf volgende kernpunten naar een tekst met volzinnen
+ - Herschrijf volgende kernpunten naar een tekst met volzinnen.
+ 
+ In de Github context kwam er ook een promt bij:
+ - Schrijf de tekst voor github voor volgende tabel.
 
 ## Bijlagen
 ### Discovery

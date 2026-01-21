@@ -57,14 +57,18 @@ Een online survey (Google Forms) werd uitgevoerd om ervaringen rond spel, oriën
 
 ##### Structuur van de survey
 
-De google forms bestond uit gesloten en open vragen. De thema's die in kaart werden gebracht zijn: speelgedrag, sociale interactie, hulpmiddelen, technologie
+De google forms bestond uit gesloten en open vragen. De thema's die in kaart werden gebracht zijn: speelgedrag, sociale interactie, hulpmiddelen en technologie.
+
+De volledige vragenlist is te vinden in het research protocol.
+<p align="center">
+  <img src="../img/survey.png" width="60%">
+</p>
 
 ##### Steekproef
 
 De doelgroep voor het invullen van de vragenlijst waren volwassenen die voor hun 12e levensjaar blind of slechtziend waren.
 
 Uiteindelijk waren er maar 3 respondenten.
-
 
 Hoewel de steekproef klein is, en er liever blinde en slechtziende kinderen of hun ouders werden geinterviewd, levert ze waardevolle kwalitatieve inzichten op over speelervaringen in de kindertijd.
 
@@ -75,6 +79,25 @@ Open antwoorden werden thematisch geanalyseerd om terugkerende noden, frustratie
 ### Resultaten
 
 ##### Resultaten benchmarking
+Volgende producten werden vergeleken. Deze hebben te maken met navigatie, spelen of een armband. Meer informatie over deze producten is te vinden in het research report.
+
+###### Tabel 1 – Overzicht benchmarkingproducten
+
+| Product | Werking / kernprincipes |
+|--------|--------------------------|
+| OrCam MyEye | Camera detecteert tekst, objecten en gezichten en zet deze om naar auditieve feedback. |
+| Sunu Band | Sonarsensoren meten afstand tot obstakels en geven feedback via trillingen. |
+| WeWALK Smart Cane | Slimme witte stok met sensoren, trillingen en spraakfeedback, gekoppeld aan smartphone-navigatie. |
+| Wayband | Haptische armband die richting aangeeft via trillingen. |
+| Picoo | Speelse controller met licht, geluid en trillingen, gericht op actieve en sociale spellen. |
+| Feelspace Belt | Riem met vibratiemotoren die continu het noorden aangeven voor ruimtelijk bewustzijn. |
+| NavCog | iPhone-app die indoor navigatie ondersteunt via gesproken instructies. |
+| Accessible Gaming Kits | Spelmateriaal met haptische en auditieve feedback voor inclusief en sociaal spel. |
+| Braille Domino | Dominospel met braillepuntjes, waarmee kinderen spelenderwijs braille leren. |
+| LEGO Braille Bricks | LEGO-blokjes met brailleletters en cijfers, geschikt voor samen spelen met ziende kinderen. |
+| Tactiele puzzels | Puzzels met reliëf en voelbare vormen die tastzin en ruimtelijk inzicht stimuleren. |
+| Bordspellen met voelbare tokens | Bordspellen met tastbare stukken en markeringen zodat het spel via aanraking gevolgd kan worden. |
+
 
 Uit de vergelijking van bestaande producten kwamen volgende patronen naar voren:
 
@@ -98,6 +121,10 @@ Samen spelen met ziende kinderen bleek vaak moeilijk, omdat veel spellen sterk v
 Daarnaast gaven de respondenten aan dat er weinig toegankelijk speelmateriaal bestond en dat spellen vaak zelf aangepast moesten worden. Er is een duidelijke behoefte aan speelse producten die geluid en tast combineren en inclusieve interactie mogelijk maken.
 
 *“Wanneer een spel niet afhankelijk was van kijken, maar van horen en voelen, kon ik echt meedoen.”*
+
+
+##### Design requierements: 
+1.1, 1.2, 1.3
 
 ### Conclusies & implicaties
 Uit het onderzoek blijkt dat bestaande hulpmiddelen vooral focussen op functionaliteit en oriëntatie, terwijl spel en sociale interactie weinig aandacht krijgen. Spelen gebeurt daardoor vaak individueel, terwijl de behoefte aan inclusief sociaal spel groot is.
