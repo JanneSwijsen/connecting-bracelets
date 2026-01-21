@@ -12,10 +12,10 @@ Naast de observatie en het interview werd de basis van ons product ook gedefinie
 Na deze wave hadden we al een beter beeld bij hoe we de spelletjes gingen interageren.
 
 Voordat we van start gingen met de tweede wave werd er een storyboard gemaakt die zowel de navigatie functie als de spelletjes functie bevat.
-Hierdoor konden we in de tweede wave de functies gaan testen met prototypes en weer in de vorm van een user test. Deze bevatten al meer elektronica waardoor ze nog interactiever zijn en al meer betrekking hebben tot het definitieve ontwerp. Hierdoor konden de testpersonen deze functies beter ervaren waardoor ze deze al dan niet konden valideren. Hierdoor kregen we een beter beeld van ons product en werden er finale schetsen gemaakt.
+Hierdoor konden we in de tweede wave de functies gaan testen met prototypes en weer in de vorm van een user test. Ook het Think Aloud protocol werd gehanteerd waardoor we op elk moment de ervaringen van de gebruikers konden meevolgen. De prototypes bevatten al meer elektronica waardoor ze nog interactiever zijn en al meer betrekking hebben tot het definitieve ontwerp. Hierdoor konden de testpersonen deze functies beter ervaren waardoor ze deze al dan niet konden valideren. Hierdoor kregen we een beter beeld van ons product en werden er finale schetsen gemaakt.
 
 
 
 <p align="center">
-  <img src="../img/Schermafbeelding 2026-01-20 210304.png" width="100%">
+  <img src="../img/Schermafbeelding 2026-01-21 095325.png" width="100%">
 </p>
