@@ -14,12 +14,12 @@ Daarnaast bleek uit interviews dat vier van de vijf blinde en slechtziende kinde
 Onze oplossing is de Connex, een armband die kinderen helpt elkaar te vinden en samen te spelen. De armband heeft drie ringen die via vibraties richting aangeven: links, rechtdoor en rechts, en wordt gebruikt wanneer een kind een vriendje zoekt. Slechtziende kinderen kunnen elkaar herkennen via ingebouwde lichtjes, waarbij elk kind een eigen kleur krijgt. Daarnaast bevat de armband knopjes waarmee kinderen samen geluid kunnen maken en een ingebouwde walkie talkie waardoor de kinderen draadloos met elkaar kunnen commmuniceren. Op deze manier worden spel en interactie met elkaar op de speelplaats gestimuleerd.
 
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  <img src="img/Foto.png" width="100%">
 </p>
 
 ## Introductie
 
-Blinde en slechtziende kinderen zijn een zeer kleine en specifieke doelgroep met zo’n 2300 tot 2500 kinderen in ons land. Tijdens het opgroeien is het belangrijk dat je als kind sociaal wordt uitgedaagd door leeftijdsgenoten. Kortom, je leert als kind heel veel bij tijdens het interageren met elkaar. Dit lijkt zeer vanzelfsprekend maar niet voor kinderen met een visuele beperking. Zij missen namelijk veel signalen die nodig zijn voor een vlotte communicatie. Zij kunnen geen lichaamsbewegingen lezen en kunnen zich sneller uitgesloten voelen bij visuele of fysieke activiteiten. Daarom zijn wij op onderzoek gegaan en hebben we ons verdiept in de wereld van blinde en slechtziende kinderen van zes tot twaalf jaar op school. Hoe ervaren zij de wereld en op welke manier lossen zij bepaalde zaken op? En één van de belangrijkste vragen: 'Hoe kunnen wij als ontwerper de interacie tussen de kinderen op de speelplaats stimuleren?'.
+Blinde en slechtziende kinderen zijn een zeer kleine en specifieke doelgroep met zo’n 2300 tot 2500 kinderen in ons land [^1]. Tijdens het opgroeien is het belangrijk dat je als kind sociaal wordt uitgedaagd door leeftijdsgenoten. Kortom, je leert als kind heel veel bij tijdens het interageren met elkaar. Dit lijkt zeer vanzelfsprekend maar niet voor kinderen met een visuele beperking. Zij missen namelijk veel signalen die nodig zijn voor een vlotte communicatie. Zij kunnen geen lichaamsbewegingen lezen en kunnen zich sneller uitgesloten voelen bij visuele of fysieke activiteiten. Daarom zijn wij op onderzoek gegaan en hebben we ons verdiept in de wereld van blinde en slechtziende kinderen van zes tot twaalf jaar op school. Hoe ervaren zij de wereld en op welke manier lossen zij bepaalde zaken op? En één van de belangrijkste vragen: 'Hoe kunnen wij als ontwerper de interacie tussen de kinderen op de speelplaats stimuleren?'.
 
 Al snel merkten we dat navigatie en onderlinge activiteiten een gebrek waren op de speelplaats. Kinderen kunnen zich snel vervelen en hebben vaak moeite met elkaar te vinden op de speelplaats. Dit leidt voor vele kinderen tot eenzame pauzes en weinig interactie met leeftijdsgenoten wat een negatieve invloed heeft op de sociale ontwikkeling van kinderen. Daarom zochten wij naar oplossingen en hebben deze vertaald naar fysieke en interactieve prototypes. Dit geheel vormt de Connex, een interactieve en slimme armband die de sociale ontwikkelingen stimuleert door op een efficiëntere manier met elkaar te communiceren. Elk kind beschikt over een armband met een specifieke kleur waardoor kinderen elkaar makkelijker kunnen vinden d.m.v. licht of trillingen. Ook bevat het talloze triggers zoals geluid, stemmetjes en zelfs een walkie-talkie om draadloos te kunnen communiceren met elkaar. 
 Op deze manier willen wij blinde en slechtziende kinderen tijdens hun jeugd optimalere ontwikkelingskansen bieden.
@@ -88,5 +88,7 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
- Statbel – Nationaal Instituut voor de Statistiek., (2025). Kerncijfers 2025 (PDF). Belgische Federale Overheidsdienst Economie
+ [^1]: Statbel – Nationaal Instituut voor de Statistiek., (2025). Kerncijfers 2025 (PDF). Belgische Federale Overheidsdienst Economie
+
+ [^2]: Wibra. (z.d.). Fietslampjes LED 2 stuks – rood/wit
+
