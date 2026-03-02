@@ -3,7 +3,7 @@ Project: Spatial Experiences for Visually Impaired Populations
 
 ### Doestellingen
 ##### Hoofddoel
-Een de keuze voor de doelgroep en probleem dat aangekaart ging worden achter de rug was, werd er eerst een persona opgesteld.
+Eens de keuze voor de doelgroep en probleem dat aangekaart ging worden achter de rug was, werd er een persona opgesteld.
 
 <p align="center">
   <img src="../img/WhatsApp Image 2026-01-21 at 10.06.00.jpeg" width="90%">
