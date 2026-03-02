@@ -15,13 +15,13 @@ We zijn vertrokken vanuit een storyboard.
   <img src="../img/Schermafbeelding 2026-01-20 213930.png" width="100%">
 </p>
 
-Hieruit volgde een prototype die we later aan de klas moesten voorstellen.
+Hieruit volgde een prototype dat later aan de klas voorgesteldd werd.
 
 <p align="center">
   <img src="../img/eerste prototype.jpeg" width="100%">
 </p>
 
-Hierna konden we beginnen met ons onderzoek.
+Hierna kon hetonderzoek beginnen.
 
 Wave 1:
 
@@ -33,7 +33,7 @@ In deze wave stonden volgende vragen centraal:
 - Waarvoor zullen deze knoppen precies dienen?
 
 
-Om op deze vragen antwoorden te krijgen, zijn we fysieke prototypes maken. Deze zullen we vervolgens in een user test gaan voorleggen aan onze doelgroep. De bedoeling is dat de verschillende knoppen getest zullen worden op de vormen. Deze prototypes zijn modulair, wat betekent dat je eenvoudig de knoppen m.b.v. klitteband makkelijk op de vormen kunt plaatsen. De bedoeling is dat ieder kind elke combinatie ervaart en ons zo de persoonlijke voorkeuren bezorgt in de vorm van een vragenlijst op het einde.  
+Om op deze vragen antwoorden te krijgen, werden er fysieke prototypes gemaakt. Deze zullen vervolgens in een user test gaan voorgelegd worden aan de doelgroep. De bedoeling is dat de verschillende knoppen getest zullen worden op de vormen. Deze prototypes zijn modulair, wat betekent dat je eenvoudig de knoppen m.b.v. klitteband makkelijk op de vormen kunt plaatsen. De bedoeling is dat ieder kind elke combinatie ervaart en ons zo de persoonlijke voorkeuren bezorgt in de vorm van een vragenlijst op het einde.  
 <p align="center">
   <img src="../img/Schermafbeelding 2026-01-20 215616.png" width="100%">
 </p>
@@ -53,9 +53,9 @@ In deze wave stonden volgende vragen centraal:
 - Is het gebruik van knoppen voor geluid intuïtief en plezierig?
 - Ondersteunen de functies de samenwerking en sociale interactie?
 
-Om op deze vragen antwoord te krijgen, hebben we weer fysieke prototypes gemaakt en deze laten testen door onze doelgroep in de vorm van een user test. In deze wave worden de functies zeer goed ervaren omdat dit in de juiste context namelijk de speelplaats. Tijdens de testen werd het think aloud protocol toegepast zodat wij steeds op de hoogte waren van hun ervaringen en bevindingen.
+Om op deze vragen antwoord te krijgen, zijn er weer fysieke prototypes gemaakt en getest door onze doelgroep in de vorm van een user test. In deze wave worden de functies zeer goed ervaren omdat dit in de juiste context namelijk de speelplaats. Tijdens de testen werd het think aloud protocol toegepast zodat de ervaringen en bevindingen uitgesproken werden.
 
-Trillingen: Deze kunnen veel hulp bieden bij navigatie. De vibratie motoren worden aangestuurd door een Arduino nano die op een Grove Shield wordt gezet. De motoren zullen om de beurt vibreren voor 1 seconden en daartussen is 4 seconden rust. 
+Trillingen: Deze kunnen veel hulp bieden bij navigatie. De vibratiemotoren worden aangestuurd door een Arduino nano die op een Grove Shield wordt gezet. De motoren zullen om de beurt vibreren voor 1 seconden en daartussen is 4 seconden rust. 
 De pijlen tonen het modeltraject wanneer vibratieMotor 1 het rechtse signaal geeft, vibratieMotor 2 aan de middelvinger is aangesloten en vibratieMotor 3 het signaal in de linkse richting geeft.
 Het is dus de bedoeling dat de kinderen zelf snappen wat ze moeten doen en het traject zo goed mogelijk proberen af te leggen.
 
@@ -127,6 +127,6 @@ Design Requirements:
 
 
 ### Conclusies & implicaties
-Door al deze testen zijn we tot belangrijke besluiten gekomen. 
-Uit Wave 1 hebben we vastgesteld dat het product een armband moet zijn en deze geen draaiknoppen mag bevatten. 
-Uit Wave 2 constateerden we dat de navigatiefunctie een groot succes was bij de trillingen als de lichtjes alhoewel de trillingen een groter doelpubliek bereiken. Deze kunnen door zowel slechtziende als blinde kinderen gebruikt worden. Daarnaast waren de spelletjes ook een grote troef en vonden de kinderen het zeer aangenaam deze te gebruiken.P
+Door al deze testen zijn er belangrijke besluiten gekomen. 
+Uit Wave 1 hebben werd vastgesteld dat het product een armband moet zijn en deze geen draaiknoppen mag bevatten. 
+Uit Wave 2 constateerden we dat de navigatiefunctie een groot succes was bij de trillingen als de lichtjes alhoewel de trillingen een groter doelpubliek bereiken. Deze kunnen door zowel slechtziende als blinde kinderen gebruikt worden. Daarnaast waren de spelletjes ook een grote troef en vonden de kinderen het zeer aangenaam deze te gebruiken.
