@@ -76,6 +76,14 @@ Prompts die gebruikt werden zijn:
   * [Protocol](https://docs.google.com/document/d/1tHmsLacJP1s_fwc3OeXYuKpickdQvcC8EyfVEBEWJOY/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1i3CbX1E0wDJPAPWbUhM5ELafk3zNrf05KD8DWR6aCic/edit?usp=sharing)
 
+  ### Develop 1
+  * User testing wave 1 (N=5)
+  * [Protocol]
+  * [Rapport]
+* User testing wave 2 (N=5)
+  * [Protocol]
+  * [Rapport]
+
 ## Licentie
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
