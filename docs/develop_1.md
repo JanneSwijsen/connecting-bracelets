@@ -16,11 +16,13 @@ In deze fase werden stonden twee aspecten centraal: De meest optimale manier om 
 #### Wave 1
 In de eerste wave staat de manier van navigeren centraal. Reeds werd bevestigd dat navigeren via haptische feedback een goede oplossing is waar er in deze wave mee wordt verder gegaan. Trillingen vergen namelijk geen visuele ondersteuning en worden ervaren via de zintuigelijke waarnemingen.
 ##### Literatuuronderzoek
-Om tot verschillende mogelijkheden te komen werd er eerst gebenchmarkt naar reeds bestaande manieren om haptische feedback te ontvangen.
+Om tot verschillende mogelijkheden te komen, werd er eerst een literatuurstudie gedaan naar het verband tussen sensorisch waarnemen en de anatomie van de pols en hand.
 ##### Prototypes
+
 ##### Test
-Het protocol van de eerste test is hier te vinden: 
+
 ##### Resultaten
+
 ##### Conclusies & implicaties
 
 
@@ -29,6 +31,7 @@ Het protocol van de eerste test is hier te vinden:
 ##### Benchmarking
 Om tot verschillende mogelijkheden te komen werd er eerst gebenchmarkt naar reeds bestaande manieren om blinde en slechtziende kinderen te vermaken.
 ##### Prototypes
+
 ##### Test
 Het protocol van de eerste test is hier te vinden: 
 ##### Resultaten
@@ -42,14 +45,14 @@ De functionele breakdown bevat verschillende deelaspecten voor betere grip te kr
 #### User flows 
 De user flows verduidelijkt de interactie tussen mens en product. Het helpt de gebruiker hoe die stap per stap een handeling moet uitvoeren.
 <p align="center">
-  <img src="../img/Information Architecture & User flows (8).jpg" width="100%">
+  <img src="../img/Information Architecture & User flows (11).jpg" width="100%">
 </p>
 
 
 #### Informatiearchitectuur
 De informatiearchitectuur ordent informatie over het product op een gestructureerde wijze om zo gebruiksgemak en effeciëntie te optimaliseren.
 <p align="center">
-  <img src="../img/Information Architecture & User flows (10).jpg" width="100%">
+  <img src="../img/Information Architecture & User flows.jpg" width="100%">
 </p>
 
 #### MVP-definitie
