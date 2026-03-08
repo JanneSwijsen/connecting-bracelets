@@ -6,10 +6,10 @@
 - Inzicht krijgen in de eisen en wensen van de doelgroep en dit verwerken in het eerder bedachte concept
 - Belangrijke design requirements bepalen
 ### Materiaal & methoden
-Dit was de start van onze samenwerking. Nadat Janne het concept volledig uit heeft gelegd aan Marie, zijn we meteen aan het werk gegaan.
+Dit was de start van de samenwerking. Nadat het concept duidelijk was, werd er meteen aan de slag gegaan.
 Er werden wat aanpassingen gemaakt aan de "connected bracelets". Hieruit ontstond een eerste een storyboard en later ook een eerste snelle prototype.
 
-We zijn vertrokken vanuit een storyboard.
+Er is vertrokken vanuit een storyboard.
 
 <p align="center">
   <img src="../img/Schermafbeelding 2026-01-20 213930.png" width="100%">

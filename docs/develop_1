@@ -1,0 +1,41 @@
+## Develop 1
+### Doelstellingen
+In deze fase werd het concept nog bijgestuurd en bepaalde functionele zaken gevalideerd. Er werd vertrokken vanuit opgestelde onderzoeksvragen en hypotheses die in deze fase beantwoordt zullen worden.
+
+- Zijn ringen de optimaalste manier om de haptische feedback waar te nemen?
+*Ringen kunnen onhandig zijn tijdens het spelen. Ook moeten er steeds drie ringen worden aangedaan, wat veel tijd kan kosten.*
+
+- Op welke manier kan het spelen en interageren met elkaar beter gestimuleerd worden?
+*Kijk wat er reeds op de markt is en vertaal deze speelvormen in prototypes.*
+
+
+### Materiaal & methoden
+In deze fase werden stonden twee aspecten centraal: De optimaalste manier om te navigeren en verschillende speelfuncties. Dit wordt gesplitst in twee waves. Er wordt vertrokken vanuit een centraal storyboard.
+
+
+
+
+
+#### Wave 1
+##### Benchmarking
+##### Prototypes
+##### Test
+##### Resultaten
+##### Conclusies & implicaties
+
+
+#### Wave 2
+
+##### Benchmarking
+##### Prototypes
+##### Test
+##### Resultaten
+##### Conclusies & implicaties
+
+### Functionele breakdown
+De functionele breakdown bevat verschillende deelaspecten voor betere grip te krijgen op de architectuur. Deze werden doorheen deze fase opgesteld en bijgewerkt na de testen om duidelijk de verschillende aspecten van het concept te evolueren naar een onderbouwde functionele architectuur.
+
+#### Productarchitectuur
+#### User flows 
+#### Informatie-architectuur
+#### MVP-definitie
