@@ -38,8 +38,14 @@ De functionele breakdown bevat verschillende deelaspecten voor betere grip te kr
 
 #### Productarchitectuur
 #### User flows 
-De user flow verduidelijkt de interactie tussen mens en product.
-#### Informatie-architectuur
+De user flows verduidelijkt de interactie tussen mens en product.
+
+#### Informatiearchitectuur
+De informatiearchitectuur ordent informatie over het product op een gestructureerde wijze om zo gebruiksgemak en effeciëntie te optimaliseren.
+<p align="center">
+  <img src="../img/Information Architecture & User flows (6).jpg" width="100%">
+</p>
+
 #### MVP-definitie
 Via de MoSCoW methode werden de primaire en secundaire functies gedefinieerd.
 <p align="center">
