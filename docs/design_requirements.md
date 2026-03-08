@@ -20,7 +20,7 @@
 | 2.5 | Het product laat toe zeer duidelijke signalen te geven over de verschillende richtingen. | Concept Testing | ✅ |
 | **Speelfunctie** |
 | 3.1 | Het product laat toe zeer duidelijke auditieve en haptische feedback te geven tijdens het spelen. | Concept Testing | ⚠️ |
-| 3.2 | Het product laat toe via een externe tactiele knop het volumegehalte aan te passen. |  | ❌ |
+| 3.2 | Het product laat toe via een externe tactiele knop en in één handeling het volumegehalte aan te passen. |  | ❌ |
 | **Gebruiksgemak** |
 | 4.1 | Het product laat toe gemakkelijk aan-en uit te zetten via feedbackgevende en tactiele knoppen. |  | ❌ |
 | 4.2 | Het product laat toe intuïtief te gebruiken zijn. |  | ❌ |
@@ -31,15 +31,14 @@
 | 4.7 | Het product laat toe een levensduur te hebben voor minstens vijf jaar. |  | ❌ |
 | 4.8 | Het product laat in drie handelingen toe de batterijen te vervangen. |  | ❌ |
 | **Veiligheid** |
-| 5.1 | De armband moet weerbestendig zijn. |  | ❌ |
-| 5.2 | De motoren mogen niet opwarmen tijdens gebruik. |  | ❌ |
-| 5.3 | De armband mag geen scherpe hoeken bevatten. |  | ❌ |
-| 5.4 | De armband moet uit taaie materialen bestaan. |  | ❌ |
+| 5.1 | Het product laat toe weerbestendig te zijn. |  | ❌ |
+| 5.2 | Het product laat toe ronde hoeken en randen te bevatten. |  | ❌ |
+| 5.3 | Het product laat toe uit taaie materialen te bestaan. |  | ❌ |
 | **Ergonomie** |
-| 6.1 | De armband moet comfortabel rond de pols zitten. |  | ❌ |
-| 6.2 | De armband moet instelbaar zijn in polsmaat. |  | ❌ |
-| 6.3 | De armband moet stevig rond de pols zitten tijdens fysieke bewegingen. |  | ❌ |
-| 6.4 | Het product mag niet te zwaar zijn. |  | ❌ |
+| 6.1 | Het product laat toe uit comfortabel te zitten. |  | ❌ |
+| 6.2 | De armband laat toe instelbaar te zijn in pasgrootte. |  | ❌ |
+| 6.3 | Het product laat toe stevig rond de pols te zitten tijdens fysieke activiteiten. |  | ❌ |
+| 6.4 | Het product laat toe een aangenaam gewicht te hebben rond de pols. |  | ❌ |
 
 
 

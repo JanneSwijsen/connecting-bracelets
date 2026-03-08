@@ -52,11 +52,11 @@ De user flows verduidelijkt de interactie tussen mens en product. Het helpt de g
 #### Informatiearchitectuur
 De informatiearchitectuur ordent informatie over het product op een gestructureerde wijze om zo gebruiksgemak en effeciëntie te optimaliseren.
 <p align="center">
-  <img src="../img/Information Architecture & User flows.jpg" width="100%">
+  <img src="../img/Information Architecture & User flows (12).jpg" width="100%">
 </p>
 
 #### MVP-definitie
 Via de MoSCoW methode werden de primaire en secundaire functies gedefinieerd.
 <p align="center">
-  <img src="../img/Information Architecture & User flows (5).jpg" width="100%">
+  <img src="../img/Information Architecture & User flows.jpg" width="100%">
 </p>
