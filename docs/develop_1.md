@@ -3,7 +3,7 @@
 In deze fase werd het concept nog bijgestuurd en bepaalde functionele zaken gevalideerd. Er werd vertrokken vanuit opgestelde onderzoeksvragen en hypotheses die in deze fase beantwoordt zullen worden.
 
 - Zijn ringen de optimaalste manier om de haptische feedback waar te nemen?
-*Ringen kunnen onhandig zijn tijdens het spelen. Ook moeten er steeds drie ringen worden aangedaan, wat veel tijd kan kosten.*
+*Vermoedelijk niet, ringen kunnen onhandig zijn tijdens het spelen. Ook moeten er steeds drie ringen worden aangedaan, wat veel tijd kan kosten.*
 
 - Op welke manier kan het spelen en interageren met elkaar beter gestimuleerd worden?
 *Onderzoek wat er reeds bestaat m.b.v. benchmarking en vertaal deze speelvormen in prototypes.*
@@ -49,7 +49,7 @@ De user flows verduidelijkt de interactie tussen mens en product. Het helpt de g
 #### Informatiearchitectuur
 De informatiearchitectuur ordent informatie over het product op een gestructureerde wijze om zo gebruiksgemak en effeciëntie te optimaliseren.
 <p align="center">
-  <img src="../img/Information Architecture & User flows (7).jpg" width="100%">
+  <img src="../img/Information Architecture & User flows (10).jpg" width="100%">
 </p>
 
 #### MVP-definitie
