@@ -35,7 +35,7 @@
 | 5.2 | Het product laat toe ronde hoeken en randen te bevatten. |  | ❌ |
 | 5.3 | Het product laat toe uit taaie materialen te bestaan. |  | ❌ |
 | **Ergonomie** |
-| 6.1 | Het product laat toe uit comfortabel te zitten. |  | ❌ |
+| 6.1 | Het product laat toe comfortabel te zitten. |  | ❌ |
 | 6.2 | De armband laat toe instelbaar te zijn in pasgrootte. |  | ❌ |
 | 6.3 | Het product laat toe stevig rond de pols te zitten tijdens fysieke activiteiten. |  | ❌ |
 | 6.4 | Het product laat toe een aangenaam gewicht te hebben rond de pols. |  | ❌ |
