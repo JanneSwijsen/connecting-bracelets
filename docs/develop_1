@@ -6,19 +6,20 @@ In deze fase werd het concept nog bijgestuurd en bepaalde functionele zaken geva
 *Ringen kunnen onhandig zijn tijdens het spelen. Ook moeten er steeds drie ringen worden aangedaan, wat veel tijd kan kosten.*
 
 - Op welke manier kan het spelen en interageren met elkaar beter gestimuleerd worden?
-*Kijk wat er reeds op de markt is en vertaal deze speelvormen in prototypes.*
+*Onderzoek wat er reeds bestaat m.b.v. benchmarking en vertaal deze speelvormen in prototypes.*
 
 
 ### Materiaal & methoden
-In deze fase werden stonden twee aspecten centraal: De optimaalste manier om te navigeren en verschillende speelfuncties. Dit wordt gesplitst in twee waves. Er wordt vertrokken vanuit een centraal storyboard.
-
-
+In deze fase werden stonden twee aspecten centraal: De meest optimale manier om te navigeren en verschillende speelfuncties. Dit wordt gesplitst in twee waves. Er wordt vertrokken vanuit een centraal storyboard. 
 
 
 #### Wave 1
+In de eerste wave staat de manier van navigeren centraal. Reeds werd bevestigd dat navigeren via haptische feedback een goede oplossing is waar er in deze wave mee wordt verder gegaan. Trillingen vergen namelijk geen visuele ondersteuning en worden ervaren via de zintuigelijke waarnemingen.
 ##### Benchmarking
+Om tot verschillende mogelijkheden te komen werd er eerst gebenchmarkt naar reeds bestaande manieren om haptische feedback te ontvangen.
 ##### Prototypes
 ##### Test
+Het protocol van de eerste test is hier te vinden: 
 ##### Resultaten
 ##### Conclusies & implicaties
 
@@ -39,3 +40,7 @@ De functionele breakdown bevat verschillende deelaspecten voor betere grip te kr
 De user flow verduidelijkt de interactie tussen mens en product.
 #### Informatie-architectuur
 #### MVP-definitie
+Via de MoSCoW methode werden de primaire en secundaire functies gedefinieerd.
+<p align="center">
+  <img src="../img/Information Architecture & User flows (5).jpg" width="100%">
+</p>
