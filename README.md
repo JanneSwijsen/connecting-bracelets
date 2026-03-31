@@ -5,7 +5,7 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*21/02/2026 van de laatste update*   
+*31/03/2026 van de laatste update*   
 
 ## Samenvatting
 
@@ -49,6 +49,22 @@ De functies vertalen naar prototypes was zeer goed gelukt. Door gebruik te maken
 
 Een grote moeilijkheid was de maximale vorm. Door met een armband te werken voor kinderen zit je met een beperkte ruimte. Hierdoor was het belangrijk om goed na te denken over de hoofd- en deelfuncties en goed te filteren wat echt een must is en wat een nice to have is. Ook nadenken over het integreren van de elektronica binnen een kleine ruimte speelde een rol. Wat is er mogelijk binnen het prototypen om een zo goed mogelijk product neer te zetten dat zo dicht mogelijk aansluit bij het werkelijke?
 
+##### Develop 1
+
+
+##### Develop 2
+
+
+##### Develop 3
+
+
+
+
+
+
+
+
+
 
 ## Noot inzake het gebruik van AI
 Ai werd gebruikt om onze teksten te herschrijven.
@@ -76,6 +92,25 @@ Prompts die gebruikt werden zijn:
 * User testing wave 2 (N=5)
   * [Protocol](https://docs.google.com/document/d/1tHmsLacJP1s_fwc3OeXYuKpickdQvcC8EyfVEBEWJOY/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1i3CbX1E0wDJPAPWbUhM5ELafk3zNrf05KD8DWR6aCic/edit?usp=sharing)
+
+### Develop 1
+* User testing wave 1 (N=3)
+  * [Protocol](https://docs.google.com/document/d/1nPsdfydx2fvQFqMQH2k9aMCh4dT-5UrECPmXcozBuiY/edit?usp=sharing)
+  * [Rapport](https://docs.google.com/document/d/1AFayvt5vMAW4omSunCLhBP_VLpjjSemOP6mUQBEzia4/edit?usp=sharing)
+* User testing wave 2 (N=2)
+  * [Protocol](https://docs.google.com/document/d/1_SrTmNFUYpZebSoyYL-cApbTEUQ2hVBj7rHwhpm2ETI/edit?usp=sharing)
+  * [Rapport](https://docs.google.com/document/d/1WfAI9g7FnhT1T2cpIMoxWpf2htsGCqGHAacFuqu-JKY/edit?usp=sharing)
+
+
+### Develop 2
+  * [Protocol](https://docs.google.com/document/d/1UPgJKpPowbs-d-nndVgMRzp1pptnUT6lB6xNUvCXEwo/edit?usp=sharing)
+  * [Rapport](https://docs.google.com/document/d/1cuYYJ3rZQcm1pJ_Tt8sR4M4DUH8dPJDH0INzswdAbVA/edit?usp=sharing)
+
+
+
+### Develop 3
+
+
 
 
 ## Licentie
