@@ -1,7 +1,7 @@
 ## Bill of materials
 
 
-##### Mterialen 
+##### Materialen 
 - kunststof (rubber, TPU,...) voor de armband
 
 
