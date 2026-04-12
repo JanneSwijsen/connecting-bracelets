@@ -5,7 +5,7 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*31/03/2026 van de laatste update*   
+*12/04/2026 van de laatste update*   
 
 ## Samenvatting
 
@@ -31,7 +31,7 @@ Op deze manier zal dit product blinde en slechtziende kinderen tijdens hun jeugd
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
 4. [Develop 1](docs/develop_1.md)
-5. [Develop 2]()
+5. [Develop 2](docs/develop_2.md)
 6. [Develop 3]()
 7. [Deliver]()
 8. [Design Requirements](./docs/design_requirements.md)
@@ -52,13 +52,7 @@ De functies vertalen naar prototypes was zeer goed gelukt. Door gebruik te maken
 
 Een grote moeilijkheid was de maximale vorm. Door met een armband te werken voor kinderen zit je met een beperkte ruimte. Hierdoor was het belangrijk om goed na te denken over de hoofd- en deelfuncties en goed te filteren wat echt een must is en wat een nice to have is. Ook nadenken over het integreren van de elektronica binnen een kleine ruimte speelde een rol. Wat is er mogelijk binnen het prototypen om een zo goed mogelijk product neer te zetten dat zo dicht mogelijk aansluit bij het werkelijke?
 
-##### Develop 1
-
-
-##### Develop 2
-
-
-##### Develop 3
+##### Develop
 
 
 ##### Deliver
