@@ -103,9 +103,9 @@ Prompts die gebruikt werden zijn:
 
 
 ### Develop 2
-* User testing (N=)
+* User testing (N=4)
   * [Protocol](https://docs.google.com/document/d/1UPgJKpPowbs-d-nndVgMRzp1pptnUT6lB6xNUvCXEwo/edit?usp=sharing)
-  * [Rapport](https://docs.google.com/document/d/1cuYYJ3rZQcm1pJ_Tt8sR4M4DUH8dPJDH0INzswdAbVA/edit?usp=sharing)
+  * [Rapport](https://docs.google.com/document/d/1UPgJKpPowbs-d-nndVgMRzp1pptnUT6lB6xNUvCXEwo/edit?usp=sharing)
 
 
 

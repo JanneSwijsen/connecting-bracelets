@@ -1,4 +1,9 @@
 ## Develop 2
+
+
+*   [Protocol](https://docs.google.com/document/d/1UPgJKpPowbs-d-nndVgMRzp1pptnUT6lB6xNUvCXEwo/edit?usp=sharing)
+  * [Rapport](https://docs.google.com/document/d/1UPgJKpPowbs-d-nndVgMRzp1pptnUT6lB6xNUvCXEwo/edit?usp=sharing)
+
 ### Doelstellingen
 In deze fase ligt de focus op het optimaliseren van de ergonomie en gebruiksvriendelijkheid van de armband. Waar in Develop 1 de functionele werking centraal stond, wordt hier onderzocht hoe het product fysiek en cognitief ervaren wordt door de gebruiker.
 
@@ -16,6 +21,14 @@ Onderzoeksvragen:
 In deze fase wordt gewerkt rond ergonomie en interactie. De focus ligt op het testen van fysieke componenten zoals verschillende knoppen, een armband en sluitingsmechanismen.
 
 De testen werden uitgevoerd met slechtziende kinderen (N=4) in een realistische context (speelplaats).
+
+Er werd weer vertrokken vanuit een storyboard. Hieruit werden de acties van het indrukken gehaald. Alsook de aan-uit knop aan de armband.
+
+<p align="center">
+  <img src="../img/develop 2 storyboard.jpeg" width="100%">
+</p>
+
+
 
 ### Testmethodiek
 - Think Aloud Protocol
@@ -61,9 +74,16 @@ Daarnaast blijkt dat eenvoudige tactiele vormen goed werken en dat duidelijke fe
 Op basis van antropometrisch onderzoek werden volgende ontwerpbeslissingen genomen:
 
 - Armband lengte: 13,78 – 16,76 cm
-- Minimale knopgrootte: ±13 mm
+- Minimale knopgrootte: ±13 mm<sup>2</sup>
 - Minimale afstand tussen knoppen: ±8 mm
 - Display: ±45 x 35 mm
+
+*De armband zal er dus uit zien als deze...*
+<p align="center">
+  <img src="../img/develop 2 armband.jpeg" width="100%">
+</p>
+
+
 
 ##### Cognitieve ergonomie
 
