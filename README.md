@@ -5,7 +5,7 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*17/05/2026 van de laatste update*   
+*18/05/2026 van de laatste update*   
 
 ## Samenvatting
 
@@ -38,8 +38,8 @@ Start van "designing the thing right". De functionele werking wordt onderzocht e
 Er wordt gewerkt aan de ergonomie en gebruiksvriendelijkheid.
 6. [Develop 3]()
 De laatste develop draait om de emotionele laag (UX),  esthetische verfijning (CMF) en Product Service System (PSS).
-8. [Design Requirements](./docs/design_requirements.md)
-9. [Bill of materials](./docs/bom.md)
+7. [Design Requirements](./docs/design_requirements.md)
+8. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 ##### Discovery
