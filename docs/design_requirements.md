@@ -24,21 +24,21 @@
 | **Gebruiksgemak** |
 | 4.1 | Het product laat toe gemakkelijk aan-en uit te zetten via feedbackgevende en tactiele knoppen. |  | ❌ |
 | 4.2 | Het product laat toe intuïtief te gebruiken zijn. |  | ❌ |
-| 4.3 | Het product laat toe draadloos te communiceren. | Concept Testing | ⚠️ |
-| 4.4 | Het product laat toe in drie stappen de armband rond de pols te doen. |  | ❌ |
-| 4.5 | Het product laat toe te gebruiken zijn door kinderen van zes tot twaalf jaar. | Concept Testing | ⚠️ |
-| 4.6 | Het product laat toe te gebruiken zijn door kinderen met een looprek. |  | ❌ |
+| 4.3 | Het product laat toe draadloos te communiceren. | Concept Testing | ✅ |
+| 4.4 | Het product laat toe in drie stappen de armband rond de pols te doen. |  | ✅ |
+| 4.5 | Het product laat toe te gebruiken zijn door kinderen van zes tot twaalf jaar. | Concept Testing | ✅ |
+| 4.6 | Het product laat toe te gebruiken zijn door kinderen met een looprek. |  | ✅ |
 | 4.7 | Het product laat toe een levensduur te hebben voor minstens vijf jaar. |  | ❌ |
 | 4.8 | Het product laat in drie handelingen toe de batterijen te vervangen. |  | ❌ |
 | **Veiligheid** |
 | 5.1 | Het product laat toe weerbestendig te zijn. |  | ❌ |
 | 5.2 | Het product laat toe ronde hoeken en randen te bevatten. |  | ❌ |
-| 5.3 | Het product laat toe uit taaie materialen te bestaan. |  | ❌ |
+| 5.3 | Het product laat toe uit taaie materialen te bestaan. |  | ✅ |
 | **Ergonomie** |
-| 6.1 | Het product laat toe comfortabel te zitten. |  | ❌ |
-| 6.2 | De armband laat toe instelbaar te zijn in pasgrootte. |  | ❌ |
-| 6.3 | Het product laat toe stevig rond de pols te zitten tijdens fysieke activiteiten. |  | ❌ |
-| 6.4 | Het product laat toe een aangenaam gewicht te hebben rond de pols. |  | ❌ |
+| 6.1 | Het product laat toe comfortabel te zitten. |  | ✅ |
+| 6.2 | De armband laat toe instelbaar te zijn in pasgrootte. |  | ✅ |
+| 6.3 | Het product laat toe stevig rond de pols te zitten tijdens fysieke activiteiten. |  | ✅ |
+| 6.4 | Het product laat toe een aangenaam gewicht te hebben rond de pols. |  | ⚠️ |
 
 
 

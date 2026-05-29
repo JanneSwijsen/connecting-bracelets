@@ -5,7 +5,7 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*18/05/2026 van de laatste update*   
+*29/05/2026 van de laatste update*   
 
 ## Samenvatting
 
