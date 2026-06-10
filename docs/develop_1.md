@@ -4,6 +4,43 @@ Deze develop fase werd opgesplitst in twee waves.  Er wordt vertrokken vanuit ee
   <img src="../img/documentjes (3).jpg" width="100%">
 </p>
 
+### Functionele breakdown
+De functionele breakdown bevat verschillende deelaspecten voor betere grip te krijgen op de architectuur. Deze werden doorheen deze fase opgesteld en bijgewerkt na de testen om duidelijk de verschillende aspecten van het concept te evolueren naar een onderbouwde functionele architectuur.
+
+#### Morfologische Matrix
+Voor de testen werden alle mogelijkheden nog eens uitgeschreven per functie om vervolgens de beste combinatie hieruit te maken.
+
+<p align="center">
+  <img src="../img/documentjes (2).jpg" width="100%">
+</p>
+
+
+#### Productarchitectuur
+De productarchitectuur geeft een overzicht van de gebruikte elektronica verwezen naar de armband.
+
+<p align="center">
+  <img src="../img/documentjes (1).jpg" width="100%">
+</p>
+
+#### User flows 
+De user flows verduidelijkt de interactie tussen mens en product. Het helpt de gebruiker hoe die stap per stap een handeling moet uitvoeren.
+<p align="center">
+  <img src="../img/Information Architecture & User flows (11).jpg" width="100%">
+</p>
+
+
+#### Informatiearchitectuur
+De informatiearchitectuur ordent informatie over het product op een gestructureerde wijze om zo gebruiksgemak en effeciëntie te optimaliseren.
+<p align="center">
+  <img src="../img/Information Architecture & User flows (12).jpg" width="100%">
+</p>
+
+#### MVP-definitie
+Via de MoSCoW methode werden de primaire en secundaire functies gedefinieerd.
+<p align="center">
+  <img src="../img/Information Architecture & User flows.jpg" width="100%">
+</p>
+
 ### Wave 1
 In de definition fase werd er reeds bevestigd dat haptische feedback de manier is om te navigeren. Trillingen vergen namelijk geen visuele ondersteuning en worden ervaren via de zintuigelijke waarnemingen. Dit werd toen vertaald in de vorm van ringen maar wordt in deze wave dieper onderzocht.
 [Protocol Wave 1](https://docs.google.com/document/d/1nPsdfydx2fvQFqMQH2k9aMCh4dT-5UrECPmXcozBuiY/edit?usp=sharing) (N=3)
@@ -85,39 +122,3 @@ Op basis van deze test kan geconcludeerd worden dat zowel haptische feedback (tr
 
 
 
-### Functionele breakdown
-De functionele breakdown bevat verschillende deelaspecten voor betere grip te krijgen op de architectuur. Deze werden doorheen deze fase opgesteld en bijgewerkt na de testen om duidelijk de verschillende aspecten van het concept te evolueren naar een onderbouwde functionele architectuur.
-
-#### Morfologische Matrix
-Voor de testen werden alle mogelijkheden nog eens uitgeschreven per functie om vervolgens de beste combinatie hieruit te maken.
-
-<p align="center">
-  <img src="../img/documentjes (2).jpg" width="100%">
-</p>
-
-
-#### Productarchitectuur
-De productarchitectuur geeft een overzicht van de gebruikte elektronica verwezen naar de armband.
-
-<p align="center">
-  <img src="../img/documentjes (1).jpg" width="100%">
-</p>
-
-#### User flows 
-De user flows verduidelijkt de interactie tussen mens en product. Het helpt de gebruiker hoe die stap per stap een handeling moet uitvoeren.
-<p align="center">
-  <img src="../img/Information Architecture & User flows (11).jpg" width="100%">
-</p>
-
-
-#### Informatiearchitectuur
-De informatiearchitectuur ordent informatie over het product op een gestructureerde wijze om zo gebruiksgemak en effeciëntie te optimaliseren.
-<p align="center">
-  <img src="../img/Information Architecture & User flows (12).jpg" width="100%">
-</p>
-
-#### MVP-definitie
-Via de MoSCoW methode werden de primaire en secundaire functies gedefinieerd.
-<p align="center">
-  <img src="../img/Information Architecture & User flows.jpg" width="100%">
-</p>
