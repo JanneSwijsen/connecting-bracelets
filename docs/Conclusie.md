@@ -14,7 +14,17 @@ Boven en onder de behuizing bevinden er zich nog twee extra drukknoppen voor de 
 
 Hier nog de functies stap voor stap uitgelgd:
 
-![alt text](../img/Zoekfunctie.png)
+
+![alt text](../img/funcites.png)
 
 
+Opmerkingen:
+- Er kan maar één stand tegelijk ingeduwd worden.
+- Wanneer er iemand aan het zoeken is, kan er met deze persoon niet gecommuniceerd worden.
+- Er kan pas een functie uitgeoefend worden als alle knoppen in originele positie staan.
 
+Het finaal prototype werd nog een laatste keer getest door de doelgroep. (N = 2) Vooraf werd het concept nog gerolplayed en op de speelplaats werd het uitgevoerd. D
+
+![alt text](../img/image.png)
+
+![alt text](../img/finaal.jpeg)
