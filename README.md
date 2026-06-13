@@ -7,6 +7,8 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 
 *13/06/2026 van de laatste update*   
 
+![alt text](img/Heroshot.png)
+
 ## Samenvatting
 
 Blinde en slechtziende kinderen ervaren moeilijkheden op de speelplaats. Uit interviews met volwassenen die blind of slechtziend zijn, blijkt dat zij dit probleem vroeger ook ondervonden. Een belangrijk probleem is het terugvinden van elkaar op de speelplaats. Dit werd bevestigd door toezichthouders van een buso-school die meerdere keren werd bezocht. Vooral kinderen met CVI hebben het moeilijk om andere kinderen te herkennen en doen dit vaak op basis van uiterlijke kenmerken zoals een jas. Ook voor volledig blinde kinderen is dit niet evident.

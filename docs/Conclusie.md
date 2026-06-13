@@ -9,7 +9,8 @@ De armbanden bestaan in setten van vijf waardoor je met vijf personen verbonden 
 Deze knoppen bevatten tactiele vormen waardoor deze knoppen makkelijk te vinden zijn zonder visuele odnersteuning.
 Boven en onder de behuizing bevinden er zich nog twee extra drukknoppen voor de armband te bedienen.
 
-![alt text](Conclusie_componenten.png)
+![alt text](../img/Hernoemen.png)
+
 
 Hier nog de functies stap voor stap uitgelgd:
 
