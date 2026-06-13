@@ -1,8 +1,8 @@
 ### Develop 2
 In deze fase wordt er weer vertrokken vanuit een storyboard.
-<p align="center">
-  <img src="../img/develop 2 storyboard.jpeg" width="100%">
-</p>
+![alt text](<../img/storybord D31.png>)
+![alt text](<../img/storybord D32.png>)
+![alt text](image-1.png)
 
 *   [Protocol](https://docs.google.com/document/d/1UPgJKpPowbs-d-nndVgMRzp1pptnUT6lB6xNUvCXEwo/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/17CZ-qlhVTWKxYnFFfxX93lt-I04BnHg_nRmLgqNz79U/edit?usp=sharing)
