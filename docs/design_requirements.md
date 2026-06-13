@@ -31,6 +31,7 @@
 | 4.6 | Het product laat toe te gebruiken zijn door kinderen met een looprek. | interview | ✅ |
 | 4.7 | Het product laat toe een levensduur te hebben voor minstens vijf jaar. | interview | ⚠️ |
 | 4.8 | Het product laat in drie handelingen toe de batterijen te vervangen. |  | ⚠️ |
+| 4.9 | Het product laat toe comfortabel rond de pols te zitten. | user tests | ✅ |
 | **Veiligheid** |
 | 5.1 | Het product laat toe weerbestendig te zijn. | interview | ✅ |
 | 5.2 | Het product laat toe afgeronde hoeken en randen te bevatten. |  | ✅ |
