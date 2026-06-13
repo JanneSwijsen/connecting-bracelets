@@ -1,9 +1,8 @@
 ## Develop 1
 Deze develop fase werd opgesplitst in twee waves.  Er wordt vertrokken vanuit een storyboard. 
-<p align="center">
-  <img src="../img/documentjes (3).jpg" width="100%">
-</p>
-
+![alt text](../img/StoryD11.png)
+![alt text](../img/StoryD12.png)
+![alt text](../img/StoryD13.png)
 ### Functionele breakdown
 De functionele breakdown bevat verschillende deelaspecten voor betere grip te krijgen op de architectuur. Deze werden doorheen deze fase opgesteld en bijgewerkt na de testen om duidelijk de verschillende aspecten van het concept te evolueren naar een onderbouwde functionele architectuur.
 
