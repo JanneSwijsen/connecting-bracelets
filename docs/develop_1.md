@@ -4,7 +4,7 @@ Deze develop fase werd opgesplitst in twee waves.  Er wordt vertrokken vanuit ee
   <img src="../img/documentjes (3).jpg" width="100%">
 </p>
 
-v### Functionele breakdown
+### Functionele breakdown
 De functionele breakdown bevat verschillende deelaspecten voor betere grip te krijgen op de architectuur. Deze werden doorheen deze fase opgesteld en bijgewerkt na de testen om duidelijk de verschillende aspecten van het concept te evolueren naar een onderbouwde functionele architectuur.
 
 #### Morfologische Matrix
@@ -46,7 +46,7 @@ In de definition fase werd er reeds bevestigd dat haptische feedback de manier i
 [Protocol Wave 1](https://docs.google.com/document/d/1nPsdfydx2fvQFqMQH2k9aMCh4dT-5UrECPmXcozBuiY/edit?usp=sharing) (N=3)
 [Rapport Wave 1](https://docs.google.com/document/d/1AFayvt5vMAW4omSunCLhBP_VLpjjSemOP6mUQBEzia4/edit?usp=sharing) (N=3)
 #### Doelstellingen
-Er werd vertrokken vanuit opgestelde onderzoeksvragen en hypotheses die in deze fase beantwoordt zullen worden.
+Er werd vertrokken vanuit een centrale vraag en hypothese die in deze fase beantwoordt zullen worden.
 - Wat is de verkozen manier om de haptische feedback te ontvangen?
 *Vermoedelijk niet via de ringen omdat deze veel werk vragen om aan en uit te doen. De trillingen op de pols waarnemen verkiest waarschijnlijk de voorkeur.*
 
@@ -116,7 +116,7 @@ Het doel van deze tweede wave is het onderzoeken van de reactie en de onderlinge
 [Rapport Wave 2](https://docs.google.com/document/d/1WfAI9g7FnhT1T2cpIMoxWpf2htsGCqGHAacFuqu-JKY/edit?tab=t.0) (N=2)
 
 #### Doelstellingen
-Er werd vertrokken vanuit opgestelde onderzoeksvragen en hypotheses die in deze fase beantwoordt zullen worden.
+Er werd vertrokken vanuit een centrale vraag en hypothese die in deze fase beantwoordt zullen worden.
 Belangrijk is om het gevoel van de kinderen goed te observeren en nagaan of de onderlinge interactie gestimuleerd wordt.
 - Op welke manier kan het spelen en interageren met elkaar beter gestimuleerd worden?
 *Onderzoek wat er reeds bestaat m.b.v. benchmarking en vertaal deze speelvormen in prototypes.*
