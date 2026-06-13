@@ -16,6 +16,5 @@ Hierdoor kon er in de tweede wave de functies getest worden met prototypes, also
 
 
 
-<p align="center">
-  <img src="../img/Schermafbeelding 2026-01-21 095325.png" width="100%">
-</p>
+
+![alt text](../img/Methodologie.png)
