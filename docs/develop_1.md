@@ -131,8 +131,27 @@ De eigenschappen van verschillende reeds bestaande interactief speelgoed/product
 ![alt text](<../img/Prototypes D1W2.png>)
 
 #### Gebruikerstesten
+- De usertesten vonden spelenderwijs plaats op de speelplaats, telkens in duo’s.
+
+Zoekspel met Arduino’s:
+- Elk kind kreeg een Arduino die met de andere Arduino verbonden was.
+- Eén kind verstopte zich, terwijl het andere kind op zoek ging.
+- De Arduino gaf trillingen die sneller werden naarmate de kinderen dichter bij elkaar kwamen.
+- Tijdens de activiteit werden observaties uitgevoerd en werd het Think Aloud-protocol toegepast.
+- Evaluaie m.b.v. de smiley schaal.
+- Persoonlijk gesprek plaats om hun ervaringen te bespreken.
+
+Activiteit met walkie talkies:
+- De walkie talkies werden eerst geïntroduceerd en kort uitgetest.
+- Zelfstandig mee experimenteren op de speelplaats.
+- Zoekopdracht uitvoeren met behulp van de walkie talkies.
+- Kind A stond op een bepaalde plaats op de speelplaats.
+- Kind B probeerde Kind A te vinden door de instructies die via de walkietalkie werden gegeven te volgen.
+
+Belangrijk om het gevoel van de kinderen goed te observeren en nagaan of de onderlinge interactie gestimuleerd wordt.
+
 ##### Testopzet
-Belangrijk is om het gevoel van de kinderen goed te observeren en nagaan of de onderlinge interactie gestimuleerd wordt.
+De trilmotor werd bevestigd aan de onderkant van de pols. 
 ##### Doelgroep
 | Kenmerk         | Kind A                  | Kind B |
 |-----------------|--------------------------|--------|
