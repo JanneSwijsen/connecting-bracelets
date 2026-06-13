@@ -5,7 +5,8 @@ Armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelpl
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*29/05/2026 van de laatste update*   
+*29/05/2026 van de laatste update* 
+![alt text](docs/image.png)  
 
 ## Samenvatting
 
@@ -13,9 +14,6 @@ Blinde en slechtziende kinderen ervaren moeilijkheden op de speelplaats. Uit int
 Daarnaast bleek uit interviews dat vier van de vijf blinde en slechtziende kinderen geen spelletjes spelen op de speelplaats. Dit toont aan dat het voor hen moeilijk is om samen te spelen en met elkaar te interageren.
 Onze oplossing is de Connex, een armband die kinderen helpt elkaar te vinden en samen te spelen. De armband heeft drie ringen die via vibraties richting aangeven: links, rechtdoor en rechts, en wordt gebruikt wanneer een kind een vriendje zoekt. Slechtziende kinderen kunnen elkaar ook herkennen via ingebouwde lichtjes, waarbij elke armban een specifieke kleur heeft. Daarnaast bevat de armband knopjes waarmee kinderen samen geluid kunnen maken en een ingebouwde walkie talkie waardoor de kinderen draadloos met elkaar kunnen commmuniceren. Op deze manier worden spel en interactie met elkaar op de speelplaats gestimuleerd.
 
-<p align="center">
-  <img src="img/Foto.png" width="100%">
-</p>
 
 ## Introductie
 
@@ -56,18 +54,6 @@ De functies vertalen naar prototypes was zeer goed gelukt. Door gebruik te maken
 
 Een grote moeilijkheid was de maximale vorm. Door met een armband te werken voor kinderen zit je met een beperkte ruimte. Hierdoor was het belangrijk om goed na te denken over de hoofd- en deelfuncties en goed te filteren wat echt een must is en wat een nice to have is. Ook nadenken over het integreren van de elektronica binnen een kleine ruimte speelde een rol. Wat is er mogelijk binnen het prototypen om een zo goed mogelijk product neer te zetten dat zo dicht mogelijk aansluit bij het werkelijke?
 
-##### Develop
-
-
-##### Deliver
-
-
-
-
-
-
-
-
 
 
 ## Noot inzake het gebruik van AI
@@ -76,6 +62,7 @@ Prompts die gebruikt werden zijn:
  - Herschrijf deze tekst naar ... woorden.
  - Herschrijf deze tekst naar een meer academische langere tekst.
  - Herschrijf volgende kernpunten naar een tekst met volzinnen.
+ - Afbeeldingen genereren
  
  In de Github context kwam er ook een promt bij:
  - Zet volgens Excell bestanden om in naar tabellen voor Github.
@@ -114,7 +101,7 @@ Prompts die gebruikt werden zijn:
 
 
 ### Develop 3
-* User testing (N=...)
+* User testing (N=2)
   * [Protocol](https://docs.google.com/document/d/18HNSmozHtuKRnYnk4I5-nij3c2kGfG_J2HKYK2Kf9bY/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1sv93BTVeYQTfUqAkyKskHxLJA1h6l4gMxU6TwHaVik8/edit?usp=sharing)
 
