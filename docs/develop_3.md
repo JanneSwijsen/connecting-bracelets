@@ -45,7 +45,7 @@ LED’s kunnen een extra tool zijn voor de slechtzienden om elkaar op afstand sn
 ![alt text](../img/moodbord.png)
 
 
-##### Besluiten
+### Besluiten
 
 
 #### Doelstellingen
