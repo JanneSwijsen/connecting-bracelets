@@ -5,8 +5,44 @@ In deze fase wordt er weer vertrokken vanuit een storyboard.
   * [Rapport](https://docs.google.com/document/d/1sv93BTVeYQTfUqAkyKskHxLJA1h6l4gMxU6TwHaVik8/edit?usp=sharing)
 #### Functionele breakdown
 
+##### Service Design
+Een belangrijke stap in het proces is het service design waarbij alle interacties met het fysiek proces in kaart worden gebracht.
+
+###### Zoeken
+![alt text](<../img/user zoek.png>)
+
+###### Praten
+![alt text](<../img/service praten.png>)
+
+
+###### Verstopfunctie
+![alt text](../img/verstop1.png)
+
+![alt text](../img/Verstop2.png)
+
+
+
 ##### CMF-analyse
-![alt text](../img/CMF.png)
+- Colors:
+De armbanden onderling hebben elk een unieke kleur en vorm. Het is de bedoeling dat deze voor de slechtziende kinderen op een afstand goed te onderscheiden zijn.
+Het display en de knoppen moeten een goed contrast hebben zodat de knoppen goed zichtbaar zijn.
+De knoppen zijn per functie opgesplitst en hebben per categorie een eigen textuur zodat deze onderling qua functie ook te onderscheiden zijn.
+Complementaire kleuren zijn uitgesloten.
+ - Materials: waterdicht, licht flexibel zonder vormverlies, comfortabel in gebruik,
+duurzaam, krasbestendig, lichtgewicht en stootvast
+
+- Finishes:
+Oppervlaktebehandelingen: Bij de materialen werden al eerder coatings gedefinieerd. Dit dient voor meerdere punten: 
+    - bescherming tegen corrosie
+    - bescherming tegen scherpe hoeken
+    - anti-slip
+    - schokdemping
+    - zacht en comfortabel aanvoelen
+    - matte afwerking (niet reflecterend)
+    - betere tactiele vorm (uit silicone zodat de vormen makkelijker herkenbaar zijn)
+LED’s kunnen een extra tool zijn voor de slechtzienden om elkaar op afstand sneller te herkennen.
+
+![alt text](../img/moodbord.png)
 
 
 ##### Besluiten
