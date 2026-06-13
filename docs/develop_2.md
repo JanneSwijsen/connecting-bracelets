@@ -37,6 +37,8 @@ Er werd vertrokken vanuit centrale vragen en hypotheses die in deze fase beantwo
 - Wat zijn de ideale afmetingen van het product voor optimaal gebruik?
 *Om hier antwoord op te krijgen moet er gedaan worden aan benchmarking van verschillende kinderarmbanden en antropometrisch onderzoek naar de hand- en polsafmetingen van kinderen.*
 
+- Op welke manier is de armband het beste sluitbaar?
+*Om hier antwoord op te krijgen moet er gedaan worden aan benchmarking van verschillende sluitingsmechanismes van horloges en deze vervolgens testen in een user test.*
 #### Desk Research
 Onderstaande tabel geeft een overzicht van de te onderzochten data voor antwoord te krijgen op de verschillende aspecten van de armband.
 ![alt text](<../img/Overzicht D2.png>)
@@ -59,11 +61,8 @@ Uit de verschillende berekeningen was de totale standaardafwijking:
 ##### Besluiten
 ![alt text](<../img/besluiten D2.png>)
 
-
-
-
-
 #### Materiaal & methoden
+##### Knoppen
 Onderstaande knoppen voldoen aan de onderzochte minimale grootte van het knopoppervlak.
 ![alt text](<../img/prototypes d22.png>)
 Daarnaast is er ook een display gerealiseerd die voldoet aan de onderzochte afmetignen hiervan.
@@ -71,16 +70,23 @@ Daarnaast is er ook een display gerealiseerd die voldoet aan de onderzochte afme
 
 De knoppen bevatten velcro waardoor deze eenvoudig te bevestigen zijn op de armband. Dit zorgt voor een modulair prototype.
 ![alt text](<../img/modulair D2.png>)
+##### Armbandsluitingen
+Deze types werden getest bij de gebruikers. 
+![alt text](<../img/prototypes armbanden.png>)
+
 
 #### Gebruikerstesten
-- Think Aloud Protocol
-- Observaties
-- Speelse interactie
-
+- De prototypes worden getest in de echte gebruikscontext: de speelplaats.
+- Kinderen voelen eerst de knoppen en raden vervolgens welke vorm ze voorstellen; de herkenningstijd wordt gemeten.
+- Er wordt feedback verzameld over de duidelijkheid en grootte van de knoppen, ondersteund door het Think Aloud-protocol.
+- Verschillende sluitingsmechanismen worden getest op zelfstandige bruikbaarheid en mogelijke fouten tijdens het aandoen.
+- Vooraf werd er gerolplayed waarbij aan elk kind een vorm werd toegewezen.
+- In een speelse opdracht lopen de kinderen rond op de speelplaats en moeten ze bij het horen van een naam de juiste vormknop indrukken.
+- In een snelheidstest moeten de kinderen zo snel mogelijk de gevraagde vorm terugvinden om het tactiele onderscheid tussen de knoppen te evalueren.
 ##### Testopzet
 ![alt text](<../img/Testopzet D2.png>)
 
-Er werd gewerkt met een modulair armbandconcept via velcro met verschillende varianten:
+Er werd gewerkt met een modulair armbandconcept via velcro met verschillende varianten.
 
 ##### Doelgroep
 |                | Kind A                 | Kind B | Kind C | Kind D                 |
@@ -89,51 +95,53 @@ Er werd gewerkt met een modulair armbandconcept via velcro met verschillende var
 | Type blindheid | Monoculaire blindheid | CVI    | CVI    | Monoculaire blindheid |
 
 
-
-
-
-- Grote knoppen (±13x13 mm)
-- Kleine knoppen (±10x10 mm)
-- Verschillende tactiele vormen (cirkel, vierkant, driehoek, hart, maan)
-
 #### Resultaten
-
-Geteste varianten:
-
-- Magnetische sluiting
-- Bol-door-gat systeem
-- Gesp met pin
-- Kliksysteem
-
-
-Uit de testen blijkt dat kleine symbolen sneller herkend worden, terwijl grote knoppen net comfortabeler zijn om in te drukken. Daarnaast werken eenvoudige vormen het best, omdat deze het snelst en meest correct worden geïnterpreteerd.
+- Knoppen
 
 | Type knop   | Tijd (s) |
 |------------|---------|
 | Grote knop - groot symbool | 20–34   |
 | Kleine knop - klein symbool| 2–7     |
 
+- Armbandsluitingen
+
+| Rang | Kind A | Kind B | Kind C | Kind D |
+|-------|--------|--------|--------|--------|
+| 1 | Magneetsluiting | Magneetsluiting | Gesp met pin | Magneetsluiting |
+| 2 | Gesp met pin | Bandsluiting met gespknopjes | Magneetsluiting | Gesp met pin |
+| 3 | Bandsluiting met gespknopjes | Gesp met pin | Bandsluiting met gespknopjes | Bandsluiting met gespknopjes |
+| 4 | Kliksysteem | Kliksysteem | Kliksysteem | Kliksysteem |
+
 
 ##### Conclusies
+- Grote knoppen zijn comfortabeler en eenvoudiger in gebruik.
+- Kleine, duidelijke symbolen worden sneller tactiel herkend.
+- Eenvoudige tactiele vormen zijn het meest effectief.
+- Duidelijke feedback is noodzakelijk om de gebruiker te bevestigen dat een actie is uitgevoerd.
+- Knoppen moeten goed van elkaar te onderscheiden zijn om verwarring en fouten te voorkomen.
+- De magneetsluiting is de populairste sluiting.
+- Het kliksysteem is de minst geliefde optie.
+- Er is een duidelijke voorkeur voor sluitingen die eenvoudig en intuïtief te gebruiken zijn.
+- De armband heeft een verstelbare bandlengte tussen 13,78 cm en 16,76 cm, zodat deze geschikt is voor verschillende polsomtrekken van kinderen.
+- De drukknoppen hebben een afmeting tussen 13 mm en 25 mm in de mate dat mogelijk is. 
+- De onderlinge afstand tussen de knoppen varieert tussen 8 mm en 13 mm
+- Het display heeft een afmeting van 35 mm breed en 45 mm hoog. 
+- De trilmotor heeft een diameter van 1 cm en bevindt zich ongeveer 
+1,42 cm van de pols langs beide kanten. 
 
-De testen tonen aan dat een combinatie van grote knoppen met kleine, duidelijke symbolen optimaal is. Grote knoppen zorgen voor comfort tijdens het indrukken, terwijl kleine symbolen sneller herkend worden doordat ze in één beweging met de vinger kunnen worden afgetast.
-
-Daarnaast blijkt dat eenvoudige tactiele vormen goed werken en dat duidelijke feedback essentieel is voor de gebruiker. Knoppen moeten goed van elkaar te onderscheiden zijn om fouten te vermijden.
 ##### Implicaties
-### Functionele breakdown
-##### Antropometrie & afmetingen
+- Gebruik voldoende grote drukknoppen voor een comfortabele bediening.
+- Voorzie elke knop van een klein, eenvoudig en duidelijk tactiel symbool.
+- Kies voor herkenbare basisvormen.
+- Integreer directe feedback, bijvoorbeeld via trillingen, geluid of een klikmechanisme.
+- Zorg voor voldoende afstand en een duidelijk voelbaar onderscheid tussen de knoppen.
+- Vermijd complexe patronen of kleine details die moeilijk tactiel waarneembaar zijn.
+- De magneetsluiting wordt geselecteerd als voorkeursoplossing voor verdere ontwikkeling van de armband.
+- Het ontwerp moet focussen op gebruiksgemak, snelle bevestiging, 
 
-Op basis van antropometrisch onderzoek werden volgende ontwerpbeslissingen genomen:
+Uit deze conclusies werd een beter beeld van het product geschetst.
+![alt text](<../img/mogelijke render.png>)
 
-- Armband lengte: 13,78 – 16,76 cm
-- Minimale knopgrootte: ±13 mm<sup>2</sup>
-- Minimale afstand tussen knoppen: ±8 mm
-- Display: ±45 x 35 mm
-
-*De armband zal er dus uit zien als deze...*
-<p align="center">
-  <img src="../img/develop 2 armband.jpeg" width="100%">
-</p>
 
 
 

@@ -192,7 +192,7 @@ Walkie talkie:
 - De test toont aan dat audiocommunicatie een effectieve manier is om contact en interactie te bevorderen.
 
 
-##### Conclusies & implicaties
+##### Conclusies 
 - Zowel het zoekspel met trillingen als de walkie talkie functie functioneren goed en stimuleren sociale interactie tussen blinde en slechtziende kinderen.
 - De kinderen begrepen beide systemen snel en konden ze zonder problemen gebruiken.
 - De huidige trillingssterkte bleek soms te zwak, waardoor de feedback niet altijd optimaal waarneembaar was.
