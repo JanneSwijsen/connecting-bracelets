@@ -1,5 +1,6 @@
 ### Develop 3
-In deze fase wordt er weer vertrokken vanuit een storyboard.
+In deze laatste develop fase wordt er onderzoek gedaan naar de emoties, ervaringen, vorm en gebruik met het product. Zo zal er een CMF analyse worden opgesteld om hieruit de beste design besluiten te kunnen maken. 
+Het doel is op het einde van deze fase een product te bekomen dat zowel functioneel als emotioneel overtuigt.
 
 *   [Protocol](https://docs.google.com/document/d/18HNSmozHtuKRnYnk4I5-nij3c2kGfG_J2HKYK2Kf9bY/edit?usp=sharing)
   * [Rapport](https://docs.google.com/document/d/1sv93BTVeYQTfUqAkyKskHxLJA1h6l4gMxU6TwHaVik8/edit?usp=sharing)

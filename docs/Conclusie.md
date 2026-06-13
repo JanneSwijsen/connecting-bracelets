@@ -28,3 +28,4 @@ Het finaal prototype werd nog een laatste keer getest door de doelgroep. (N = 2)
 ![alt text](../img/image.png)
 
 ![alt text](../img/finaal.jpeg)
+![alt text](<WhatsApp Image 2026-06-14 at 01.21.10.jpeg>)
